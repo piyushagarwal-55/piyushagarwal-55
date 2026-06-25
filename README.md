@@ -4,7 +4,7 @@
 
 ### Full Stack Developer | CTO at Practers | AI Systems Builder
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Chief+Technology+Officer+%40+Practers;Next.js+%7C+TypeScript+%7C+Fastify+%7C+Prisma;AI+Mock+Interviews+%7C+Judge0+%7C+WebSockets;740%2B+DSA+Problems+Across+Platforms;Building+Full+Stack+Products+That+Ship" alt="Typing animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Chief+Technology+Officer+%40+Practers;Next.js+16+%7C+React+19+%7C+Fastify+5+%7C+Prisma;Judge0+%7C+Socket.IO+%7C+BullMQ+%7C+Redis;Supabase+%7C+PostgreSQL+%7C+MongoDB+%7C+Cloud+Run;740%2B+DSA+Problems+Across+Platforms" alt="Typing animation" />
 
 <br />
 
@@ -22,8 +22,9 @@ const piyush = {
   education: "B.Tech CCE, LNMIIT Jaipur",
   cgpa: "7.52/10",
   location: "Rupnagar, Punjab",
-  work: ["AI interview systems", "real time coding platforms", "full stack SaaS"],
-  stack: ["Next.js", "TypeScript", "Fastify", "Prisma", "Supabase", "Redis", "PostgreSQL"],
+  work: ["AI interview systems", "contest infra", "hiring dashboards", "secure OA"],
+  stack: ["Next.js 16", "React 19", "Fastify 5", "Prisma", "Supabase", "MongoDB", "Redis"],
+  infra: ["Google Cloud Run", "Docker", "BullMQ", "Judge0", "Cloudflare R2"],
   coding: "740+ problems across LeetCode, Codeforces and GeeksForGeeks",
   mindset: "Build fast. Debug deeply. Ship clean."
 };
@@ -39,11 +40,13 @@ const piyush = {
 
 Apr 2026 to Present
 
-Leading architecture for an AI native interview preparation and hiring platform across Next.js, TypeScript, Fastify, Prisma, Supabase, PostgreSQL, MongoDB, Redis and Socket.IO.
+Leading architecture for an AI native interview preparation and hiring platform built as a Turborepo monorepo with Next.js 16, React 19, TypeScript, Fastify 5, Prisma, Supabase, PostgreSQL, MongoDB, Redis, BullMQ and Socket.IO.
 
-Built resume aware AI mock interviews with authenticated WebSockets, Groq voice/text sessions, stage orchestration, code/canvas snapshots and rubric scored reports.
+Built resume aware AI mock interviews with authenticated WebSockets, Groq voice/text sessions, Gemini/OpenAI integrations, stage orchestration, code/canvas snapshots and rubric scored reports.
 
-Built secure coding, contest and hiring modules using Judge0, Redis/BullMQ queues, hidden tests, real time verdicts, ATS resume analysis and OA proctoring.
+Built secure coding, contest and hiring modules using Judge0, Redis/BullMQ queues, hidden tests, real time verdicts, ATS resume analysis, Monaco editor, Excalidraw scratchpads and OA proctoring.
+
+Deployed services on Google Cloud Run with Docker, Secret Manager, Cloudflare R2 style storage, Razorpay payments, Resend email and MSG91 verification.
 
 <a href="https://www.practers.com/">Live product</a>
 
@@ -64,6 +67,39 @@ Implemented backend analytics for parsing accuracy, shortlist quality, recruiter
 </tr>
 </table>
 
+## Practers Architecture
+
+<table width="100%">
+<tr>
+<td align="center" width="25%">
+<h3>Product Apps</h3>
+<p>Next.js 16, React 19, Tailwind 4, Monaco editor, Excalidraw, TipTap, React Query</p>
+</td>
+<td align="center" width="25%">
+<h3>API Layer</h3>
+<p>Fastify 5, TypeScript, Prisma, Supabase auth, Socket.IO, REST APIs, Zod validation</p>
+</td>
+<td align="center" width="25%">
+<h3>Execution Infra</h3>
+<p>Judge0, BullMQ, Redis, hidden tests, scoring service, contest service, code workers</p>
+</td>
+<td align="center" width="25%">
+<h3>Platform Infra</h3>
+<p>Google Cloud Run, Docker, Cloud Build, Secret Manager, Cloudflare R2, Vercel</p>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<h3>AI and Interview Runtime</h3>
+<p>Groq, Gemini, OpenAI, Deepgram, resume parsing, voice/text sessions, stage based interview orchestration</p>
+</td>
+<td align="center" colspan="2">
+<h3>Hiring and Proctoring</h3>
+<p>Company dashboard, secure OA, MediaPipe, TensorFlow.js, webcam checks, Razorpay, Resend and MSG91</p>
+</td>
+</tr>
+</table>
+
 ## Tech Stack
 
 <div align="center">
@@ -78,13 +114,29 @@ Implemented backend analytics for parsing accuracy, shortlist quality, recruiter
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,prisma" alt="Backend" />
 
 ### Database and Infrastructure
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,redis,docker,git,github" alt="Database and infrastructure" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,redis,docker,gcp,git,github" alt="Database and infrastructure" />
 
 <br />
 <br />
 
 <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
+<img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" />
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO" />
+<img src="https://img.shields.io/badge/BullMQ-DC2626?style=for-the-badge&logo=redis&logoColor=white" alt="BullMQ" />
 <img src="https://img.shields.io/badge/Judge0-2E3440?style=for-the-badge&logo=codeforces&logoColor=white" alt="Judge0" />
+<img src="https://img.shields.io/badge/Monaco_Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Monaco Editor" />
+<img src="https://img.shields.io/badge/Excalidraw-6965DB?style=for-the-badge&logo=excalidraw&logoColor=white" alt="Excalidraw" />
+<img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow.js" />
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" />
+<img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Run" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare R2" />
+<img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white" alt="Razorpay" />
+<img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white" alt="Resend" />
+<img src="https://img.shields.io/badge/MSG91-111827?style=for-the-badge&logo=maildotru&logoColor=white" alt="MSG91" />
+<img src="https://img.shields.io/badge/Deepgram-13EF93?style=for-the-badge&logo=deepgram&logoColor=black" alt="Deepgram" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq" />
 <img src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Bedrock" />
 <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
 <img src="https://img.shields.io/badge/System_Design-0F172A?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="System Design" />
@@ -126,9 +178,11 @@ Data Structures and Algorithms, Object Oriented Programming, DBMS, Operating Sys
 
 ### [Practers](https://www.practers.com/)
 
-AI native interview preparation and hiring platform with resume aware mock interviews, coding rounds, ATS analysis, proctoring and hiring dashboards.
+AI native interview preparation and hiring platform with resume aware mock interviews, peer interviews, coding rounds, contests, secure OA, ATS analysis, proctoring and company hiring dashboards.
 
-**Stack:** Next.js, TypeScript, Fastify, Prisma, Supabase, PostgreSQL, Redis, Socket.IO
+**Stack:** Next.js 16, React 19, TypeScript, Fastify 5, Prisma, Supabase, PostgreSQL, MongoDB, Redis, BullMQ, Socket.IO, Judge0
+
+**Infra:** Google Cloud Run, Docker, Cloud Build, Cloudflare R2, Vercel, Razorpay, Resend, MSG91
 
 **Links:** [Live](https://www.practers.com/)
 
