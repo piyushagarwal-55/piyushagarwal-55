@@ -207,12 +207,6 @@ Ride sharing app for 100+ students with ride creation, seat booking, approvals, 
 
 ## Achievements
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=piyushagarwal-55&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 <table>
 <tr>
 <td align="center" width="25%"><b>LeetCode</b><br />320+ questions</td>
@@ -231,16 +225,19 @@ Ride sharing app for 100+ students with ride creation, seat booking, approvals, 
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/piyushagarwal-55?theme=dark&font=Ubuntu&ext=contest" alt="LeetCode stats" width="58%" />
-
-<br />
-<br />
-
-<a href="https://leetcode.com/piyushagarwal-55"><img src="https://img.shields.io/badge/LeetCode-320%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+<a href="https://leetcode.com/u/piyushagarwal-55/"><img src="https://img.shields.io/badge/LeetCode-320%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 <a href="https://codeforces.com/profile/piyushagarwal-5"><img src="https://img.shields.io/badge/Codeforces-220%2B-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
 <a href="https://www.geeksforgeeks.org/user/piyushagarwal-55"><img src="https://img.shields.io/badge/GeeksForGeeks-200%2B-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks" /></a>
 
 </div>
+
+<table>
+<tr>
+<td align="center" width="33%"><b>LeetCode</b><br />320+ solved<br /><a href="https://leetcode.com/u/piyushagarwal-55/">View profile</a></td>
+<td align="center" width="33%"><b>Codeforces</b><br />220+ solved<br /><a href="https://codeforces.com/profile/piyushagarwal-5">View profile</a></td>
+<td align="center" width="33%"><b>GeeksForGeeks</b><br />200+ solved<br /><a href="https://www.geeksforgeeks.org/user/piyushagarwal-55">View profile</a></td>
+</tr>
+</table>
 
 ## GitHub Analytics
 
