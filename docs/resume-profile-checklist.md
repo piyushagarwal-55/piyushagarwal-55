@@ -24,11 +24,12 @@ B.Tech, Computer Science / related branch | CGPA: <exact-value>/10
   - FlowForge
   - GyaanSaarthi
   - ShopSage
+  - Nexus Flow, if the source repo is public
   - Eden Haus
   - RepVote
-  - LNMIIT Carpool
 - Add repo descriptions for every pinned project.
 - Add repository homepage links for every deployed project.
+- Add YouTube demo links to pinned repo READMEs when the app is complex.
 
 ## Project Repositories
 
@@ -37,4 +38,3 @@ B.Tech, Computer Science / related branch | CGPA: <exact-value>/10
 - Add `assets/screenshots/` folder and commit real screenshots.
 - Keep README language simple enough for a recruiter.
 - Keep technical depth lower on the first screen and deeper after the demo section.
-

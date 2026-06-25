@@ -26,9 +26,10 @@ Use this to make projects visible to recruiters without asking them to clone cod
 
 | Repo | Status | Next fix |
 | --- | --- | --- |
-| FlowForge | Strong concept, no public demo link found | Deploy frontend, record chat-to-API workflow, add screenshots. |
-| GyaanSaarthi | Has EC2 demo link | Add fallback demo video in case the EC2 server sleeps or goes down. |
-| ShopSage | Has Vercel demo | Add demo video showing product search, cart, checkout, and PDF export. |
+| FlowForge | Has YouTube demo, no live app link found | Deploy frontend, keep the chat-to-API video near the top, and add screenshots. |
+| GyaanSaarthi | Has EC2 demo link and YouTube demo | Keep the video link near the top in case the EC2 server sleeps or goes down. |
+| ShopSage | Has Vercel demo and YouTube demo | Keep the video link near the top showing product search, cart, checkout, and PDF export. |
+| Nexus Flow | Has YouTube demo | Add the source repo and live link when public. |
 | Eden Haus | Has Vercel demo | Add screenshot/GIF of a market, bet slip, and settlement flow. |
 | RepVote | Has Vercel demo and contract addresses | Add demo credentials/network setup and a 60-second voting walkthrough. |
 | LNMIIT Carpool | Has APK release | Add real screenshots directly in README, not only a markdown placeholder. |
@@ -62,4 +63,3 @@ Use this exact structure for every serious project:
 3. Complete the main user workflow.
 4. Show the technical proof: architecture, database, APIs, contracts, or AI model usage.
 5. End with what you would improve next.
-

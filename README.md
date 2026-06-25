@@ -4,6 +4,8 @@
 <p align="center">
   <a href="https://github.com/piyushagarwal-55?tab=repositories">Projects</a>
   |
+  <a href="#advanced-full-stack-demos">Demo videos</a>
+  |
   <a href="#featured-projects">Featured work</a>
   |
   <a href="#live-demos">Live demos</a>
@@ -40,15 +42,27 @@ I build full-stack products that are easy to try, not just easy to read about. M
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
 </p>
 
+## Advanced Full-Stack Demos
+
+These are the fastest walkthroughs for recruiters and referrers who want to understand the product before reading the code.
+
+| Project | What to watch for | Demo |
+| --- | --- | --- |
+| GyaanSaarthi - AI For Bharat | AI education platform with multilingual learning flows, OCR/video features, AWS Bedrock, and offline-first product thinking. | [Watch demo](https://youtu.be/agjaVllkRdc?si=NR4Mui7SCwFXq4Yx) |
+| FlowForge | Chat-first generative UI builder that turns natural language into backend workflows and production-style APIs. | [Watch demo](https://youtu.be/VcgeOuzxbdg?si=QHoUZsFBWw5Hm0vV) |
+| Tambo Hackathon / ShopSage | Conversational e-commerce flow where AI agents drive product search, cart, checkout, and dynamic UI rendering. | [Watch demo](https://youtu.be/2icL9ZYp3SY?si=GYkttEaxtOI2zbV1) |
+| Nexus Flow @ SKALE Network | Web3 full-stack project demo focused on blockchain product UX and network integration. | [Watch demo](https://youtu.be/S1DNJXRR7LI?si=GoA0i85SfAU4o5gC) |
+
 ## Featured Projects
 
 | Project | What it proves | Try it | Stack |
 | --- | --- | --- | --- |
-| [FlowForge](https://github.com/piyushagarwal-55/Flowforge) | Chat-first generative UI backend builder that turns natural language into production-style API workflows. | [Repo](https://github.com/piyushagarwal-55/Flowforge) | TypeScript, Archestra, Groq, MongoDB |
-| [GuruMitra / GyaanSaarthi](https://github.com/piyushagarwal-55/GyaanSaarthi) | AI learning companion with 13+ AI features, 22+ languages, offline-first PWA support, OCR, video analysis, and AWS Bedrock. | [Live](http://100.25.42.160:3000/) / [Repo](https://github.com/piyushagarwal-55/GyaanSaarthi) | Next.js, TypeScript, AWS Bedrock, Textract, PWA |
-| [ShopSage](https://github.com/piyushagarwal-55/hackathon-we-make-devs) | Conversational e-commerce agent where natural language drives product discovery, cart actions, checkout, and dynamic UI. | [Live](https://hackathon-we-make-devs.vercel.app/) / [Repo](https://github.com/piyushagarwal-55/hackathon-we-make-devs) | Next.js, React, TypeScript, FastAPI, Gemini, Tambo |
+| [FlowForge](https://github.com/piyushagarwal-55/Flowforge) | Chat-first generative UI backend builder that turns natural language into production-style API workflows. | [Demo](https://youtu.be/VcgeOuzxbdg?si=QHoUZsFBWw5Hm0vV) / [Repo](https://github.com/piyushagarwal-55/Flowforge) | TypeScript, Archestra, Groq, MongoDB |
+| [GuruMitra / GyaanSaarthi](https://github.com/piyushagarwal-55/GyaanSaarthi) | AI learning companion with 13+ AI features, 22+ languages, offline-first PWA support, OCR, video analysis, and AWS Bedrock. | [Demo](https://youtu.be/agjaVllkRdc?si=NR4Mui7SCwFXq4Yx) / [Live](http://100.25.42.160:3000/) / [Repo](https://github.com/piyushagarwal-55/GyaanSaarthi) | Next.js, TypeScript, AWS Bedrock, Textract, PWA |
+| [ShopSage](https://github.com/piyushagarwal-55/hackathon-we-make-devs) | Conversational e-commerce agent where natural language drives product discovery, cart actions, checkout, and dynamic UI. | [Demo](https://youtu.be/2icL9ZYp3SY?si=GYkttEaxtOI2zbV1) / [Live](https://hackathon-we-make-devs.vercel.app/) / [Repo](https://github.com/piyushagarwal-55/hackathon-we-make-devs) | Next.js, React, TypeScript, FastAPI, Gemini, Tambo |
 | [Eden Haus](https://github.com/piyushagarwal-55/pridiction-market) | Real-time prediction market with micro-betting flows, shared types, x402 payments, and Web3 architecture. | [Live](https://pridiction-market-frontend-nfrj.vercel.app/) / [Repo](https://github.com/piyushagarwal-55/pridiction-market) | Next.js, FastAPI, Cronos, Chainlink, x402 |
 | [RepVote](https://github.com/piyushagarwal-55/hackathon-main) | Decentralized voting and prediction-style polling with deployed smart contracts on Arbitrum Sepolia. | [Live](https://repvote-v1.vercel.app/) / [Repo](https://github.com/piyushagarwal-55/hackathon-main) | TypeScript, Solidity, Arbitrum, Web3 |
+| [Nexus Flow @ SKALE Network](https://youtu.be/S1DNJXRR7LI?si=GoA0i85SfAU4o5gC) | Web3 full-stack project demo showing blockchain product UX and SKALE Network integration. | [Demo](https://youtu.be/S1DNJXRR7LI?si=GoA0i85SfAU4o5gC) | Web3, SKALE Network, Full-stack |
 | [LNMIIT Carpool](https://github.com/piyushagarwal-55/carpool-lnmiit-work) | Mobile ride sharing and bus booking app with role-based auth, booking flows, profile, safety, and APK release. | [APK](https://github.com/piyushagarwal-55/carpool-lnmiit-work/releases/download/v1.0.0/LNMIIT.Carpool.apk) / [Repo](https://github.com/piyushagarwal-55/carpool-lnmiit-work) | React Native, Expo, TypeScript |
 | [Notebook](https://github.com/piyushagarwal-55/notes-bookmarks) | Notes and bookmark management app with authentication, markdown editor, tags, favorites, and search. | [Live](https://notes-bookmarks-management.vercel.app) / [Repo](https://github.com/piyushagarwal-55/notes-bookmarks) | Next.js, TypeScript, Tailwind CSS, Express, MongoDB |
 | [Hostel Complaint System](https://github.com/piyushagarwal-55/main-hostel-complain) | Hostel complaint and management workflow with deployed backend-oriented web app. | [Live](https://hostel-management-advanced.onrender.com/) / [Repo](https://github.com/piyushagarwal-55/main-hostel-complain) | EJS, Node.js, Express |
