@@ -207,35 +207,73 @@ Ride sharing app for 100+ students with ride creation, seat booking, approvals, 
 
 ## Achievements
 
-<table>
+<table width="100%">
 <tr>
-<td align="center" width="25%"><b>LeetCode</b><br />320+ questions</td>
-<td align="center" width="25%"><b>Codeforces</b><br />220+ questions</td>
-<td align="center" width="25%"><b>GeeksForGeeks</b><br />200+ questions</td>
-<td align="center" width="25%"><b>CGPA</b><br />7.52/10</td>
+<td align="center" width="25%">
+<h3>LeetCode</h3>
+<h2>320+</h2>
+<p>questions solved</p>
+</td>
+<td align="center" width="25%">
+<h3>Codeforces</h3>
+<h2>220+</h2>
+<p>questions solved</p>
+</td>
+<td align="center" width="25%">
+<h3>GeeksForGeeks</h3>
+<h2>200+</h2>
+<p>questions solved</p>
+</td>
+<td align="center" width="25%">
+<h3>CGPA</h3>
+<h2>7.52/10</h2>
+<p>LNMIIT</p>
+</td>
 </tr>
 <tr>
-<td align="center" colspan="2"><b>Google Big Code Hackathon 2026</b><br />Cleared 3 competitive coding rounds</td>
-<td align="center"><b>Unstoppable Hackathon</b><br />Top 10 team</td>
-<td align="center"><b>AI for Bharat AWS</b><br />Top 300 teams</td>
+<td align="center" colspan="2">
+<h3>Google Big Code Hackathon 2026</h3>
+<p>Cleared 3 competitive coding rounds</p>
+</td>
+<td align="center">
+<h3>Unstoppable Hackathon</h3>
+<p>Top 10 team</p>
+</td>
+<td align="center">
+<h3>AI for Bharat AWS</h3>
+<p>Top 300 teams</p>
+</td>
 </tr>
 </table>
 
 ## Coding Profiles
 
-<div align="center">
-
-<a href="https://leetcode.com/u/piyushagarwal-55/"><img src="https://img.shields.io/badge/LeetCode-320%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-<a href="https://codeforces.com/profile/piyushagarwal-5"><img src="https://img.shields.io/badge/Codeforces-220%2B-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
-<a href="https://www.geeksforgeeks.org/user/piyushagarwal-55"><img src="https://img.shields.io/badge/GeeksForGeeks-200%2B-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks" /></a>
-
-</div>
-
-<table>
+<table width="100%">
 <tr>
-<td align="center" width="33%"><b>LeetCode</b><br />320+ solved<br /><a href="https://leetcode.com/u/piyushagarwal-55/">View profile</a></td>
-<td align="center" width="33%"><b>Codeforces</b><br />220+ solved<br /><a href="https://codeforces.com/profile/piyushagarwal-5">View profile</a></td>
-<td align="center" width="33%"><b>GeeksForGeeks</b><br />200+ solved<br /><a href="https://www.geeksforgeeks.org/user/piyushagarwal-55">View profile</a></td>
+<td align="center" width="33%">
+<a href="https://leetcode.com/u/piyushagarwal-55/">
+<img src="https://img.shields.io/badge/LeetCode-320%2B%20solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+</a>
+<br />
+<br />
+<a href="https://leetcode.com/u/piyushagarwal-55/">View profile</a>
+</td>
+<td align="center" width="33%">
+<a href="https://codeforces.com/profile/piyushagarwal-5">
+<img src="https://img.shields.io/badge/Codeforces-220%2B%20solved-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+</a>
+<br />
+<br />
+<a href="https://codeforces.com/profile/piyushagarwal-5">View profile</a>
+</td>
+<td align="center" width="33%">
+<a href="https://www.geeksforgeeks.org/user/piyushagarwal-55">
+<img src="https://img.shields.io/badge/GeeksForGeeks-200%2B%20solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks" />
+</a>
+<br />
+<br />
+<a href="https://www.geeksforgeeks.org/user/piyushagarwal-55">View profile</a>
+</td>
 </tr>
 </table>
 
