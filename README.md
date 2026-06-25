@@ -195,6 +195,41 @@ Ride sharing app for 100+ students with ride creation, seat booking, approvals, 
 </tr>
 </table>
 
+## Video Proof
+
+<table width="100%">
+<tr>
+<td align="center" width="25%">
+<h3>GyaanSaarthi</h3>
+<p>AI for Bharat project demo</p>
+<a href="https://youtu.be/agjaVllkRdc?si=NR4Mui7SCwFXq4Yx">
+<img src="https://img.shields.io/badge/Watch_Demo-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="GyaanSaarthi demo" />
+</a>
+</td>
+<td align="center" width="25%">
+<h3>FlowForge</h3>
+<p>Generative UI backend builder</p>
+<a href="https://youtu.be/VcgeOuzxbdg?si=QHoUZsFBWw5Hm0vV">
+<img src="https://img.shields.io/badge/Watch_Demo-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="FlowForge demo" />
+</a>
+</td>
+<td align="center" width="25%">
+<h3>ShopSage</h3>
+<p>Tambo hackathon project demo</p>
+<a href="https://youtu.be/2icL9ZYp3SY?si=GYkttEaxtOI2zbV1">
+<img src="https://img.shields.io/badge/Watch_Demo-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="ShopSage demo" />
+</a>
+</td>
+<td align="center" width="25%">
+<h3>Nexus Flow</h3>
+<p>SKALE Network project demo</p>
+<a href="https://youtu.be/S1DNJXRR7LI?si=GoA0i85SfAU4o5gC">
+<img src="https://img.shields.io/badge/Watch_Demo-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Nexus Flow demo" />
+</a>
+</td>
+</tr>
+</table>
+
 ## More Live Links
 
 <div align="center">
@@ -202,6 +237,8 @@ Ride sharing app for 100+ students with ride creation, seat booking, approvals, 
 <a href="https://gamma-ai-watermark-remover.vercel.app/"><img src="https://img.shields.io/badge/Gamma_AI_Watermark_Remover-Live-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Gamma AI Watermark Remover" /></a>
 <a href="https://pridiction-market-frontend-nfrj.vercel.app/"><img src="https://img.shields.io/badge/Prediction_Market-Live-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Prediction Market" /></a>
 <a href="http://100.25.42.160:3000/"><img src="https://img.shields.io/badge/GyaanSaarthi-Live-00D9FF?style=for-the-badge&logo=amazonaws&logoColor=white" alt="GyaanSaarthi" /></a>
+<a href="https://youtu.be/VcgeOuzxbdg?si=QHoUZsFBWw5Hm0vV"><img src="https://img.shields.io/badge/FlowForge-Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="FlowForge demo" /></a>
+<a href="https://youtu.be/agjaVllkRdc?si=NR4Mui7SCwFXq4Yx"><img src="https://img.shields.io/badge/GyaanSaarthi-Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="GyaanSaarthi demo" /></a>
 
 </div>
 
