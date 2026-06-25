@@ -8,7 +8,7 @@
 
 <br />
 
-<a href="mailto:24ucc097@lnmiit.ac.in"><img src="https://img.shields.io/badge/Email-24ucc097%40lnmiit.ac.in-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:piyushaga2005@gmail.com"><img src="https://img.shields.io/badge/Email-piyushaga2005%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.practers.com/"><img src="https://img.shields.io/badge/Practers-Live-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Practers" /></a>
 <a href="https://github.com/piyushagarwal-55"><img src="https://img.shields.io/badge/GitHub-piyushagarwal--55-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
