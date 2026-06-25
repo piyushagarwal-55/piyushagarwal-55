@@ -1,118 +1,272 @@
-<h1 align="center">Hi, I'm Piyush Agarwal</h1>
-<h3 align="center">Full-stack developer building AI products, Web3 apps, and recruiter-friendly demos</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/piyushagarwal-55?tab=repositories">Projects</a>
-  |
-  <a href="#advanced-full-stack-demos">Demo videos</a>
-  |
-  <a href="#featured-projects">Featured work</a>
-  |
-  <a href="#live-demos">Live demos</a>
-  |
-  <a href="#github-stats">Stats</a>
-</p>
+# PIYUSH AGARWAL
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=piyushagarwal-55&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+### Full Stack Developer | CTO at Practers | AI Systems Builder
 
-## What I Build
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Chief+Technology+Officer+%40+Practers;Next.js+%7C+TypeScript+%7C+Fastify+%7C+Prisma;AI+Mock+Interviews+%7C+Judge0+%7C+WebSockets;740%2B+DSA+Problems+Across+Platforms;Building+Full+Stack+Products+That+Ship" alt="Typing animation" />
 
-I build full-stack products that are easy to try, not just easy to read about. My recent work is focused on AI agents, generative UI, Web3, hackathon-grade products, and production-style apps with real deployments.
+<br />
 
-- 80+ public repositories across TypeScript, JavaScript, Python, Rust, EJS, and CSS.
-- Strongest areas: Next.js, React, TypeScript, Node.js, FastAPI, MongoDB, Tailwind CSS, AWS Bedrock, LangGraph, and Web3 integrations.
-- Current focus: AI product engineering, conversational interfaces, agentic workflows, and deployable portfolio projects.
-- Recruiter-first approach: live links, demo videos, screenshots, short setup steps, and clear project outcomes.
+<a href="mailto:24ucc097@lnmiit.ac.in"><img src="https://img.shields.io/badge/Email-24ucc097%40lnmiit.ac.in-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.practers.com/"><img src="https://img.shields.io/badge/Practers-Live-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Practers" /></a>
+<a href="https://github.com/piyushagarwal-55"><img src="https://img.shields.io/badge/GitHub-piyushagarwal--55-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+</div>
+
+## Why Me
+
+```javascript
+const piyush = {
+  role: "Chief Technology Officer at Practers",
+  education: "B.Tech CCE, LNMIIT Jaipur",
+  cgpa: "7.52/10",
+  location: "Rupnagar, Punjab",
+  work: ["AI interview systems", "real time coding platforms", "full stack SaaS"],
+  stack: ["Next.js", "TypeScript", "Fastify", "Prisma", "Supabase", "Redis", "PostgreSQL"],
+  coding: "740+ problems across LeetCode, Codeforces and GeeksForGeeks",
+  mindset: "Build fast. Debug deeply. Ship clean."
+};
+```
+
+## Current Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Practers | Chief Technology Officer
+
+Apr 2026 to Present
+
+Leading architecture for an AI native interview preparation and hiring platform across Next.js, TypeScript, Fastify, Prisma, Supabase, PostgreSQL, MongoDB, Redis and Socket.IO.
+
+Built resume aware AI mock interviews with authenticated WebSockets, Groq voice/text sessions, stage orchestration, code/canvas snapshots and rubric scored reports.
+
+Built secure coding, contest and hiring modules using Judge0, Redis/BullMQ queues, hidden tests, real time verdicts, ATS resume analysis and OA proctoring.
+
+<a href="https://www.practers.com/">Live product</a>
+
+</td>
+<td width="50%" valign="top">
+
+### A1 Selectors | Software Developer Intern
+
+Aug 2025 to Dec 2025
+
+Built scalable REST APIs for automated resume parsing using NLP based extraction, reducing manual screening effort by 35 percent across recruiter workflows.
+
+Developed AI recruitment workflows for candidate matching, ranking, scheduling automation, filtering, analytics and recruiter decision support.
+
+Implemented backend analytics for parsing accuracy, shortlist quality, recruiter activity and candidate pipeline movement.
+
+</td>
+</tr>
+</table>
 
 ## Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Bedrock" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
-</p>
+<div align="center">
 
-## Advanced Full-Stack Demos
+### Languages
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,c" alt="Languages" />
 
-These are the fastest walkthroughs for recruiters and referrers who want to understand the product before reading the code.
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" alt="Frontend" />
 
-| Project | What to watch for | Demo |
-| --- | --- | --- |
-| GyaanSaarthi - AI For Bharat | AI education platform with multilingual learning flows, OCR/video features, AWS Bedrock, and offline-first product thinking. | [Watch demo](https://youtu.be/agjaVllkRdc?si=NR4Mui7SCwFXq4Yx) |
-| FlowForge | Chat-first generative UI builder that turns natural language into backend workflows and production-style APIs. | [Watch demo](https://youtu.be/VcgeOuzxbdg?si=QHoUZsFBWw5Hm0vV) |
-| Tambo Hackathon / ShopSage | Conversational e-commerce flow where AI agents drive product search, cart, checkout, and dynamic UI rendering. | [Watch demo](https://youtu.be/2icL9ZYp3SY?si=GYkttEaxtOI2zbV1) |
-| Nexus Flow @ SKALE Network | Web3 full-stack project demo focused on blockchain product UX and network integration. | [Watch demo](https://youtu.be/S1DNJXRR7LI?si=GoA0i85SfAU4o5gC) |
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,prisma" alt="Backend" />
 
-## Featured Projects
+### Database and Infrastructure
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,redis,docker,git,github" alt="Database and infrastructure" />
 
-| Project | What it proves | Try it | Stack |
-| --- | --- | --- | --- |
-| [FlowForge](https://github.com/piyushagarwal-55/Flowforge) | Chat-first generative UI backend builder that turns natural language into production-style API workflows. | [Demo](https://youtu.be/VcgeOuzxbdg?si=QHoUZsFBWw5Hm0vV) / [Repo](https://github.com/piyushagarwal-55/Flowforge) | TypeScript, Archestra, Groq, MongoDB |
-| [GuruMitra / GyaanSaarthi](https://github.com/piyushagarwal-55/GyaanSaarthi) | AI learning companion with 13+ AI features, 22+ languages, offline-first PWA support, OCR, video analysis, and AWS Bedrock. | [Demo](https://youtu.be/agjaVllkRdc?si=NR4Mui7SCwFXq4Yx) / [Live](http://100.25.42.160:3000/) / [Repo](https://github.com/piyushagarwal-55/GyaanSaarthi) | Next.js, TypeScript, AWS Bedrock, Textract, PWA |
-| [ShopSage](https://github.com/piyushagarwal-55/hackathon-we-make-devs) | Conversational e-commerce agent where natural language drives product discovery, cart actions, checkout, and dynamic UI. | [Demo](https://youtu.be/2icL9ZYp3SY?si=GYkttEaxtOI2zbV1) / [Live](https://hackathon-we-make-devs.vercel.app/) / [Repo](https://github.com/piyushagarwal-55/hackathon-we-make-devs) | Next.js, React, TypeScript, FastAPI, Gemini, Tambo |
-| [Eden Haus](https://github.com/piyushagarwal-55/pridiction-market) | Real-time prediction market with micro-betting flows, shared types, x402 payments, and Web3 architecture. | [Live](https://pridiction-market-frontend-nfrj.vercel.app/) / [Repo](https://github.com/piyushagarwal-55/pridiction-market) | Next.js, FastAPI, Cronos, Chainlink, x402 |
-| [RepVote](https://github.com/piyushagarwal-55/hackathon-main) | Decentralized voting and prediction-style polling with deployed smart contracts on Arbitrum Sepolia. | [Live](https://repvote-v1.vercel.app/) / [Repo](https://github.com/piyushagarwal-55/hackathon-main) | TypeScript, Solidity, Arbitrum, Web3 |
-| [Nexus Flow @ SKALE Network](https://youtu.be/S1DNJXRR7LI?si=GoA0i85SfAU4o5gC) | Web3 full-stack project demo showing blockchain product UX and SKALE Network integration. | [Demo](https://youtu.be/S1DNJXRR7LI?si=GoA0i85SfAU4o5gC) | Web3, SKALE Network, Full-stack |
-| [LNMIIT Carpool](https://github.com/piyushagarwal-55/carpool-lnmiit-work) | Mobile ride sharing and bus booking app with role-based auth, booking flows, profile, safety, and APK release. | [APK](https://github.com/piyushagarwal-55/carpool-lnmiit-work/releases/download/v1.0.0/LNMIIT.Carpool.apk) / [Repo](https://github.com/piyushagarwal-55/carpool-lnmiit-work) | React Native, Expo, TypeScript |
-| [Notebook](https://github.com/piyushagarwal-55/notes-bookmarks) | Notes and bookmark management app with authentication, markdown editor, tags, favorites, and search. | [Live](https://notes-bookmarks-management.vercel.app) / [Repo](https://github.com/piyushagarwal-55/notes-bookmarks) | Next.js, TypeScript, Tailwind CSS, Express, MongoDB |
-| [Hostel Complaint System](https://github.com/piyushagarwal-55/main-hostel-complain) | Hostel complaint and management workflow with deployed backend-oriented web app. | [Live](https://hostel-management-advanced.onrender.com/) / [Repo](https://github.com/piyushagarwal-55/main-hostel-complain) | EJS, Node.js, Express |
+<br />
+<br />
 
-## Live Demos
+<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
+<img src="https://img.shields.io/badge/Judge0-2E3440?style=for-the-badge&logo=codeforces&logoColor=white" alt="Judge0" />
+<img src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Bedrock" />
+<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
+<img src="https://img.shields.io/badge/System_Design-0F172A?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="System Design" />
 
-These are the fastest links for recruiters who do not have time to clone projects:
+</div>
 
-| Product | Link |
-| --- | --- |
-| TV website | [tv-website-red.vercel.app](https://tv-website-red.vercel.app) |
-| ShopSage | [hackathon-we-make-devs.vercel.app](https://hackathon-we-make-devs.vercel.app/) |
-| Prediction market | [pridiction-market-frontend-nfrj.vercel.app](https://pridiction-market-frontend-nfrj.vercel.app/) |
-| RepVote | [repvote-v1.vercel.app](https://repvote-v1.vercel.app/) |
-| A1 Selector | [a1selector-website.vercel.app](https://a1selector-website.vercel.app) |
-| Master Pool | [master-pool.vercel.app](https://master-pool.vercel.app/) |
-| Notes and Bookmarks | [notes-bookmarks-management.vercel.app](https://notes-bookmarks-management.vercel.app) |
-| Hostel Management | [hostel-management-advanced.onrender.com](https://hostel-management-advanced.onrender.com/) |
-| Gadget Store | [gatdgetstore-frontend.vercel.app](https://gatdgetstore-frontend.vercel.app) |
-| Crypto Market | [crypto-market-opal.vercel.app](https://crypto-market-opal.vercel.app) |
+## Education
 
-## Recruiter Snapshot
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- I like turning hackathon ideas into usable products with a working frontend, backend, and deployment path.
-- I care about demo quality: clear README, live link, screenshots, short video, and a setup section that works.
-- I have built across AI education, AI commerce, healthcare, Web3 prediction markets, decentralized voting, mobile apps, and management systems.
+### The LNM Institute of Information Technology
 
-## GitHub Stats
+B.Tech in Communication and Computer Engineering
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=piyushagarwal-55&show_icons=true&theme=tokyonight&hide_border=true" alt="Piyush Agarwal GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushagarwal-55&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+2024 to Expected 2028
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushagarwal-55&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
-</p>
+CGPA: **7.52/10**
 
-## Project README Standard
+Jaipur, Rajasthan
 
-Every serious project should show the proof before the code:
+</td>
+<td width="50%" valign="top">
 
-1. Live demo link.
-2. 60-90 second demo video.
-3. Screenshots or GIFs above the setup section.
-4. Problem, solution, impact, and tech stack in plain English.
-5. Local setup, environment variables, deployment notes, and demo credentials where safe.
+### Coursework and Core Areas
 
-I keep reusable checklists in this profile repo:
+Data Structures and Algorithms, Object Oriented Programming, DBMS, Operating Systems, Computer Networks, System Design, LLMs, AWS Bedrock and Multi Agent Systems.
 
-- [Deployment playbook](./docs/deployment-playbook.md)
-- [Project README template](./docs/project-readme-template.md)
-- [Resume and profile checklist](./docs/resume-profile-checklist.md)
+</td>
+</tr>
+</table>
+
+## Live Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Practers](https://www.practers.com/)
+
+AI native interview preparation and hiring platform with resume aware mock interviews, coding rounds, ATS analysis, proctoring and hiring dashboards.
+
+**Stack:** Next.js, TypeScript, Fastify, Prisma, Supabase, PostgreSQL, Redis, Socket.IO
+
+**Links:** [Live](https://www.practers.com/)
+
+</td>
+<td width="50%" valign="top">
+
+### [Sheet AI Pro](https://github.com/piyushagarwal-55/sheet-ai-pro)
+
+Real time collaborative spreadsheet with Operational Transformation over WebSockets, persistent multi user state and reconnect safe synchronization.
+
+**Stack:** Next.js, Node.js, WebSockets, PostgreSQL
+
+**Proof:** under 100ms recalculation across 2,500+ cells
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [ShopSage](https://github.com/piyushagarwal-55/hackathon-we-make-devs)
+
+AI shopping assistant using AWS Bedrock and Llama 3 for search, recommendations, personalization, budget flows and generative UI.
+
+**Stack:** Next.js, FastAPI, MongoDB, AWS Bedrock, Llama 3
+
+**Links:** [Live](https://hackathon-we-make-devs.vercel.app/) | [Demo](https://youtu.be/2icL9ZYp3SY?si=GYkttEaxtOI2zbV1)
+
+</td>
+<td width="50%" valign="top">
+
+### [Nexus Flow](https://nexusflowbeta.vercel.app/)
+
+Web3 full stack project built around blockchain product UX and SKALE Network integration.
+
+**Stack:** Web3, SKALE Network, Full Stack
+
+**Links:** [Live](https://nexusflowbeta.vercel.app/) | [Demo](https://youtu.be/S1DNJXRR7LI?si=GoA0i85SfAU4o5gC)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [RepVote](https://repvote-v1.vercel.app/)
+
+Decentralized voting and prediction style polling with smart contracts deployed on Arbitrum Sepolia.
+
+**Stack:** TypeScript, Solidity, Arbitrum, Web3
+
+**Links:** [Live](https://repvote-v1.vercel.app/) | [Repo](https://github.com/piyushagarwal-55/hackathon-main)
+
+</td>
+<td width="50%" valign="top">
+
+### [LNMIIT Carpool App](https://github.com/piyushagarwal-55/carpool-lnmiit-work)
+
+Ride sharing app for 100+ students with ride creation, seat booking, approvals, group chat and location based coordination.
+
+**Stack:** React Native, TypeScript, Supabase, Socket.IO
+
+**Links:** [APK](https://github.com/piyushagarwal-55/carpool-lnmiit-work/releases/download/v1.0.0/LNMIIT.Carpool.apk)
+
+</td>
+</tr>
+</table>
+
+## More Live Links
+
+<div align="center">
+
+<a href="https://gamma-ai-watermark-remover.vercel.app/"><img src="https://img.shields.io/badge/Gamma_AI_Watermark_Remover-Live-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Gamma AI Watermark Remover" /></a>
+<a href="https://pridiction-market-frontend-nfrj.vercel.app/"><img src="https://img.shields.io/badge/Prediction_Market-Live-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Prediction Market" /></a>
+<a href="http://100.25.42.160:3000/"><img src="https://img.shields.io/badge/GyaanSaarthi-Live-00D9FF?style=for-the-badge&logo=amazonaws&logoColor=white" alt="GyaanSaarthi" /></a>
+
+</div>
+
+## Achievements
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=piyushagarwal-55&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="25%"><b>LeetCode</b><br />320+ questions</td>
+<td align="center" width="25%"><b>Codeforces</b><br />220+ questions</td>
+<td align="center" width="25%"><b>GeeksForGeeks</b><br />200+ questions</td>
+<td align="center" width="25%"><b>CGPA</b><br />7.52/10</td>
+</tr>
+<tr>
+<td align="center" colspan="2"><b>Google Big Code Hackathon 2026</b><br />Cleared 3 competitive coding rounds</td>
+<td align="center"><b>Unstoppable Hackathon</b><br />Top 10 team</td>
+<td align="center"><b>AI for Bharat AWS</b><br />Top 300 teams</td>
+</tr>
+</table>
+
+## Coding Profiles
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/piyushagarwal-55?theme=dark&font=Ubuntu&ext=contest" alt="LeetCode stats" width="58%" />
+
+<br />
+<br />
+
+<a href="https://leetcode.com/piyushagarwal-55"><img src="https://img.shields.io/badge/LeetCode-320%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+<a href="https://codeforces.com/profile/piyushagarwal-5"><img src="https://img.shields.io/badge/Codeforces-220%2B-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+<a href="https://www.geeksforgeeks.org/user/piyushagarwal-55"><img src="https://img.shields.io/badge/GeeksForGeeks-200%2B-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks" /></a>
+
+</div>
+
+## GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushagarwal-55&theme=algolia&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=piyushagarwal-55&show_icons=true&theme=algolia&hide_border=true&border_radius=10&include_all_commits=true" alt="GitHub stats" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushagarwal-55&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution graph" width="98%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushagarwal-55&layout=compact&theme=algolia&hide_border=true&border_radius=10&langs_count=8" alt="Top languages" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=piyushagarwal-55&theme=algolia&utcOffset=5.5" alt="Productive time" width="49%" />
+
+</div>
+
+## Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piyushagarwal-55/piyushagarwal-55/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/piyushagarwal-55/piyushagarwal-55/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution graph animation" src="https://raw.githubusercontent.com/piyushagarwal-55/piyushagarwal-55/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br />
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=piyushagarwal-55&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile views" />
+
+</div>
