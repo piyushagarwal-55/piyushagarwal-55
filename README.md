@@ -352,7 +352,7 @@ Ride sharing app for 100+ students with ride creation, seat booking, approvals, 
 <a href="https://codeforces.com/profile/piyushagarwal-5">View profile</a>
 </td>
 <td align="center" width="33%">
-<a href="https://www.geeksforgeeks.org/user/piyushagarwal_55">
+<a href="https://www.geeksforgeeks.org/profile/piyushagarwal_55?tab=activity">
 <img src="https://img.shields.io/badge/GeeksForGeeks-200%2B%20solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks" />
 </a>
 <br />
