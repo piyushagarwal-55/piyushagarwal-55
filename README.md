@@ -341,10 +341,10 @@ Ride sharing app for 100+ students with ride creation, seat booking, approvals, 
 </a>
 <br />
 <br />
-<a href="https://leetcode.com/u/piyushagarwal-55/">View profile</a>
+<a href="https://leetcode.com/u/piyushagarwal_55/">View profile</a>
 </td>
 <td align="center" width="33%">
-<a href="https://codeforces.com/profile/piyushagarwal-5">
+<a href="https://codeforces.com/profile/piyushagarwal_5">
 <img src="https://img.shields.io/badge/Codeforces-220%2B%20solved-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
 </a>
 <br />
@@ -352,7 +352,7 @@ Ride sharing app for 100+ students with ride creation, seat booking, approvals, 
 <a href="https://codeforces.com/profile/piyushagarwal-5">View profile</a>
 </td>
 <td align="center" width="33%">
-<a href="https://www.geeksforgeeks.org/user/piyushagarwal-55">
+<a href="https://www.geeksforgeeks.org/user/piyushagarwal_55">
 <img src="https://img.shields.io/badge/GeeksForGeeks-200%2B%20solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks" />
 </a>
 <br />
