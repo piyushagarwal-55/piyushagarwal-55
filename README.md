@@ -321,37 +321,37 @@ Ride sharing app for 100+ students with ride creation, seat booking, approvals, 
 
 <table width="100%">
 <tr>
-<td align="center" width="25%">
+<td align="center" width="270">
 <h3>LeetCode</h3>
 <h2>320+</h2>
 <p>questions solved</p>
 </td>
-<td align="center" width="25%">
+<td align="center" width="270">
 <h3>Codeforces</h3>
 <h2>220+</h2>
 <p>questions solved</p>
 </td>
-<td align="center" width="25%">
+<td align="center" width="270">
 <h3>GeeksForGeeks</h3>
 <h2>200+</h2>
 <p>questions solved</p>
 </td>
-<td align="center" width="25%">
+<td align="center" width="270">
 <h3>CGPA</h3>
 <h2>7.52/10</h2>
 <p>LNMIIT</p>
 </td>
 </tr>
 <tr>
-<td align="center" colspan="2">
+<td align="center" colspan="2" width="540">
 <h3>Google Big Code Hackathon 2026</h3>
 <p>Cleared 3 competitive coding rounds</p>
 </td>
-<td align="center">
+<td align="center" width="270">
 <h3>Unstoppable Hackathon</h3>
 <p>Top 10 team</p>
 </td>
-<td align="center">
+<td align="center" width="270">
 <h3>AI for Bharat AWS</h3>
 <p>Top 300 teams</p>
 </td>
