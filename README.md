@@ -100,6 +100,67 @@ Implemented backend analytics for parsing accuracy, shortlist quality, recruiter
 </tr>
 </table>
 
+## Practers Contribution Proof
+
+<div align="center">
+
+Verified from the private <b>mockr-labs/practers</b> repository insights. Across a large, multi developer, high infrastructure codebase, I authored the highest volume of code on the team.
+
+</div>
+
+<table width="100%">
+<tr>
+<td align="center" width="25%">
+<h3>Rank</h3>
+<h2>#2</h2>
+<p>contributor by commits</p>
+</td>
+<td align="center" width="25%">
+<h3>Lines Added</h3>
+<h2>210,311</h2>
+<p>most on the team</p>
+</td>
+<td align="center" width="25%">
+<h3>Commits</h3>
+<h2>105</h2>
+<p>to main branch</p>
+</td>
+<td align="center" width="25%">
+<h3>Peak Week</h3>
+<h2>92,608</h2>
+<p>additions in one week</p>
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<h3>Contributor Leaderboard</h3>
+<p>Ranked #2 by commits, while contributing <b>210,311</b> additions, the highest line count of any contributor on the project.</p>
+<img src="images/image4.png" alt="Practers contributor leaderboard showing piyushagarwal-55 at 105 commits and 210,311 additions" width="90%" />
+
+<br />
+<br />
+
+<h3>My Contributor Card</h3>
+<img src="images/image2.png" alt="piyushagarwal-55 contributor card: 105 commits, 210,311 additions, 29,955 deletions" width="60%" />
+
+<br />
+<br />
+
+<h3>Code Frequency</h3>
+<p>Weekly additions and deletions across the Practers codebase, peaking at 92,608 additions in a single week.</p>
+<img src="images/image1.png" alt="Practers code frequency chart of weekly additions and deletions" width="90%" />
+
+<br />
+<br />
+
+<h3>Commits Over Time</h3>
+<p>Sustained weekly contribution to the main branch of a production, multi service platform.</p>
+<img src="images/image3.png" alt="Practers commits over time insights page" width="90%" />
+
+</div>
+
 ## Tech Stack
 
 <div align="center">
