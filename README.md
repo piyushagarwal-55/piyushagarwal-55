@@ -67,39 +67,6 @@ Implemented backend analytics for parsing accuracy, shortlist quality, recruiter
 </tr>
 </table>
 
-## Practers Architecture
-
-<table width="100%">
-<tr>
-<td align="center" width="25%">
-<h3>Product Apps</h3>
-<p>Next.js 16, React 19, Tailwind 4, Monaco editor, Excalidraw, TipTap, React Query</p>
-</td>
-<td align="center" width="25%">
-<h3>API Layer</h3>
-<p>Fastify 5, TypeScript, Prisma, Supabase auth, Socket.IO, REST APIs, Zod validation</p>
-</td>
-<td align="center" width="25%">
-<h3>Execution Infra</h3>
-<p>Judge0, BullMQ, Redis, hidden tests, scoring service, contest service, code workers</p>
-</td>
-<td align="center" width="25%">
-<h3>Platform Infra</h3>
-<p>Google Cloud Run, Docker, Cloud Build, Secret Manager, Cloudflare R2, Vercel</p>
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">
-<h3>AI and Interview Runtime</h3>
-<p>Groq, Gemini, OpenAI, Deepgram, resume parsing, voice/text sessions, stage based interview orchestration</p>
-</td>
-<td align="center" colspan="2">
-<h3>Hiring and Proctoring</h3>
-<p>Company dashboard, secure OA, MediaPipe, TensorFlow.js, webcam checks, Razorpay, Resend and MSG91</p>
-</td>
-</tr>
-</table>
-
 ## Practers Contribution Proof
 
 <div align="center">
@@ -133,34 +100,32 @@ Verified from the private <b>mockr-labs/practers</b> repository insights. Across
 </tr>
 </table>
 
-<div align="center">
-
+<table width="100%">
+<tr>
+<td align="center" width="480" valign="top">
 <h3>Contributor Leaderboard</h3>
 <p>Ranked #2 by commits with 210,311 additions, the highest line count of any contributor.</p>
-<img src="images/image4.png" alt="Practers contributor leaderboard showing piyushagarwal-55 at 105 commits and 210,311 additions" width="100%" />
-
-<br />
-<br />
-
+<img src="images/image4.png" alt="Practers contributor leaderboard showing piyushagarwal-55 at 105 commits and 210,311 additions" width="460" />
+</td>
+<td align="center" width="480" valign="top">
 <h3>My Contributor Card</h3>
 <p>105 commits, 210,311 additions and 29,955 deletions to the Practers codebase.</p>
-<img src="images/image2.png" alt="piyushagarwal-55 contributor card: 105 commits, 210,311 additions, 29,955 deletions" width="100%" />
-
-<br />
-<br />
-
+<img src="images/image2.png" alt="piyushagarwal-55 contributor card: 105 commits, 210,311 additions, 29,955 deletions" width="460" />
+</td>
+</tr>
+<tr>
+<td align="center" width="480" valign="top">
 <h3>Code Frequency</h3>
 <p>Weekly additions and deletions, peaking at 92,608 additions in a single week.</p>
-<img src="images/image1.png" alt="Practers code frequency chart of weekly additions and deletions" width="100%" />
-
-<br />
-<br />
-
+<img src="images/image1.png" alt="Practers code frequency chart of weekly additions and deletions" width="460" />
+</td>
+<td align="center" width="480" valign="top">
 <h3>Commits Over Time</h3>
 <p>Sustained weekly contribution to the main branch of a production, multi service platform.</p>
-<img src="images/image3.png" alt="Practers commits over time insights page" width="100%" />
-
-</div>
+<img src="images/image3.png" alt="Practers commits over time insights page" width="460" />
+</td>
+</tr>
+</table>
 
 ## Tech Stack
 
