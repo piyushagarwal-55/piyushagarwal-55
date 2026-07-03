@@ -110,22 +110,22 @@ Verified from the private <b>mockr-labs/practers</b> repository insights. Across
 
 <table width="100%">
 <tr>
-<td align="center" width="25%">
+<td align="center" width="270">
 <h3>Rank</h3>
 <h2>#2</h2>
 <p>contributor by commits</p>
 </td>
-<td align="center" width="25%">
+<td align="center" width="270">
 <h3>Lines Added</h3>
 <h2>210,311</h2>
 <p>most on the team</p>
 </td>
-<td align="center" width="25%">
+<td align="center" width="270">
 <h3>Commits</h3>
 <h2>105</h2>
 <p>to main branch</p>
 </td>
-<td align="center" width="25%">
+<td align="center" width="270">
 <h3>Peak Week</h3>
 <h2>92,608</h2>
 <p>additions in one week</p>
