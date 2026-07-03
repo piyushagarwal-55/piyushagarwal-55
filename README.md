@@ -133,32 +133,34 @@ Verified from the private <b>mockr-labs/practers</b> repository insights. Across
 </tr>
 </table>
 
-<table width="100%">
-<tr>
-<td align="center" width="50%" valign="top">
+<div align="center">
+
 <h3>Contributor Leaderboard</h3>
 <p>Ranked #2 by commits with 210,311 additions, the highest line count of any contributor.</p>
 <img src="images/image4.png" alt="Practers contributor leaderboard showing piyushagarwal-55 at 105 commits and 210,311 additions" width="100%" />
-</td>
-<td align="center" width="50%" valign="top">
+
+<br />
+<br />
+
 <h3>My Contributor Card</h3>
 <p>105 commits, 210,311 additions and 29,955 deletions to the Practers codebase.</p>
 <img src="images/image2.png" alt="piyushagarwal-55 contributor card: 105 commits, 210,311 additions, 29,955 deletions" width="100%" />
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" valign="top">
+
+<br />
+<br />
+
 <h3>Code Frequency</h3>
 <p>Weekly additions and deletions, peaking at 92,608 additions in a single week.</p>
 <img src="images/image1.png" alt="Practers code frequency chart of weekly additions and deletions" width="100%" />
-</td>
-<td align="center" width="50%" valign="top">
+
+<br />
+<br />
+
 <h3>Commits Over Time</h3>
 <p>Sustained weekly contribution to the main branch of a production, multi service platform.</p>
 <img src="images/image3.png" alt="Practers commits over time insights page" width="100%" />
-</td>
-</tr>
-</table>
+
+</div>
 
 ## Tech Stack
 
