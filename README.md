@@ -323,7 +323,7 @@ Ride sharing app for 100+ students with ride creation, seat booking, approvals, 
 <tr>
 <td align="center" width="270">
 <h3>LeetCode</h3>
-<h2>320+</h2>
+<h2>400+</h2>
 <p>questions solved</p>
 </td>
 <td align="center" width="270">
