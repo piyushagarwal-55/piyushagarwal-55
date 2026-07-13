@@ -364,7 +364,7 @@ Ride sharing app for 100+ students with ride creation, seat booking, approvals, 
 <tr>
 <td align="center" width="33%">
 <a href="https://leetcode.com/u/piyushagarwal-55/">
-<img src="https://img.shields.io/badge/LeetCode-320%2B%20solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+<img src="https://img.shields.io/badge/LeetCode-400%2B%20solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
 </a>
 <br />
 <br />
