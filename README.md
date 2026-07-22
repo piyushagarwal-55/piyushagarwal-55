@@ -10,6 +10,7 @@
 
 <a href="mailto:piyushaga2005@gmail.com"><img src="https://img.shields.io/badge/Email-piyushaga2005%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.practers.com/"><img src="https://img.shields.io/badge/Practers-Live-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Practers" /></a>
+<a href="https://portfolio-of-piyush.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://github.com/piyushagarwal-55"><img src="https://img.shields.io/badge/GitHub-piyushagarwal--55-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
