@@ -15,31 +15,19 @@
 
 ---
 
-## The 30 second version
+## About
+
+I am a pre-final year CS student at LNMIIT Jaipur.
+
+I co-founded **Practers**, an AI interviewer that runs live voice at sub-second latency and has passed **1000+ users**. Before that I built **Sloop** at Swyclr, a barter marketplace on iPhone and Android, where I wrote the native module and the config plugin myself.
+
+Most of my time goes on the unglamorous half of AI systems. The evals, the guardrails, the thing that stops an agent doing something expensive while nobody is watching. I have shipped an agent that spends real money on its own, and that taught me fairly quickly that a model being right most of the time is not good enough.
+
+I work in TypeScript and Python, React Native on mobile, and I use Claude Code for most of it.
 
 <div align="center">
 
-### The agent does not have taste. Either I do, or nobody on that surface does.
-
-</div>
-
-Pre-final year CS student. Already took a product from **zero to 1000+ users** and built the tooling underneath it.
-
-I do not write prompts and hope.
-
-I build **the harness that catches an agent being confidently wrong**, because that is what decides whether a surface ships or embarrasses me.
-
-I run **several plans in parallel** with Claude Code, custom skills and parallel subagents.
-
-I have opinions about **which model gets which job**, and I did not get them from a blog post.
-
-I ship agents that **spend real money unsupervised**, and agents that **act on their own without being asked**. That is a fast way to learn exactly where these systems fail, and to build the habit of catching it.
-
-On mobile I ship **React Native and Expo to production**, with **live push** and **row-level security**, in a **CI/CD pipeline with automated tests**.
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/0_%E2%86%92_1000%2B_users-7C3AED?style=for-the-badge" /> <img src="https://img.shields.io/badge/shipped_solo-7C3AED?style=for-the-badge" /> <img src="https://img.shields.io/badge/sub--second_voice-00D9FF?style=for-the-badge" /> <img src="https://img.shields.io/badge/4_MCP_servers-00D9FF?style=for-the-badge" /> <img src="https://img.shields.io/badge/parallel_agent_plans-F59E0B?style=for-the-badge" /> <img src="https://img.shields.io/badge/agents_that_move_money-F59E0B?style=for-the-badge" /> <img src="https://img.shields.io/badge/evals_gated_in_CI-F59E0B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/0_%E2%86%92_1000%2B_users-7C3AED?style=for-the-badge" /> <img src="https://img.shields.io/badge/shipped_on_iOS_%2B_Android-7C3AED?style=for-the-badge" /> <img src="https://img.shields.io/badge/sub--second_voice-00D9FF?style=for-the-badge" /> <img src="https://img.shields.io/badge/4_MCP_servers-00D9FF?style=for-the-badge" /> <img src="https://img.shields.io/badge/agents_that_move_money-F59E0B?style=for-the-badge" /> <img src="https://img.shields.io/badge/evals_gated_in_CI-F59E0B?style=for-the-badge" />
 
 </div>
 
