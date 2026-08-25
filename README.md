@@ -33,7 +33,9 @@ I run **several plans in parallel** with Claude Code, custom skills and parallel
 
 I have opinions about **which model gets which job**, and I did not get them from a blog post.
 
-I ship agents that **spend real money unsupervised**. That is a fast way to learn exactly where these systems fail.
+I ship agents that **spend real money unsupervised**, and agents that **act on their own without being asked**. That is a fast way to learn exactly where these systems fail, and to build the habit of catching it.
+
+On mobile I ship **React Native and Expo to production**, with **live push** and **row-level security**, in a **CI/CD pipeline with automated tests**.
 
 <div align="center">
 
@@ -116,6 +118,38 @@ One of mine fails the build if a credential identifier appears **anywhere outsid
 The rule I work by: **the model advises, deterministic code decides.**
 
 <img src="https://img.shields.io/badge/Claude_Code-10B981?style=flat-square" /> <img src="https://img.shields.io/badge/custom_skills-10B981?style=flat-square" /> <img src="https://img.shields.io/badge/parallel_subagents-10B981?style=flat-square" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Proactive agents, not request-response bots
+
+Most agents wait to be asked. **Pounce's mandate agent does not.**
+
+It runs as a **long-lived watcher**, holds state across days, and **acts on its own** the moment a price drops.
+
+The hard part was never the acting. It was the **arming**: a **capped, time-bound authorization** granted once, so a watcher that fires unattended at 3am **cannot do damage**.
+
+That is the shape of any proactive system. Something is always running, and the real question is what it is allowed to do **when nobody is looking**.
+
+<img src="https://img.shields.io/badge/long--lived_watcher-EC4899?style=flat-square" /> <img src="https://img.shields.io/badge/acts_unprompted-EC4899?style=flat-square" /> <img src="https://img.shields.io/badge/time--bound_authority-EC4899?style=flat-square" />
+
+</td>
+<td width="50%" valign="top">
+
+### Knowing when to stay silent
+
+For anything proactive, the failure mode is **not being wrong, it is being noisy**.
+
+A suggestion nobody asked for costs **trust**, and then the feature gets switched off. So the interesting engineering is **suppression, not generation**.
+
+My judge harness already works this way. **Act on high confidence, escalate on disagreement, stay quiet otherwise**, rather than scoring everything silently.
+
+I also **route work by which model is genuinely good at it**, because once something runs continuously, **what it costs to run is a product decision** rather than an afterthought.
+
+<img src="https://img.shields.io/badge/suppression_first-EC4899?style=flat-square" /> <img src="https://img.shields.io/badge/confidence_gated-EC4899?style=flat-square" /> <img src="https://img.shields.io/badge/cost--aware_routing-EC4899?style=flat-square" />
 
 </td>
 </tr>
