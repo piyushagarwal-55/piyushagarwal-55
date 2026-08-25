@@ -232,27 +232,6 @@ Building it teaches you one thing fast: **a probability only means something whe
 </td>
 <td width="50%" valign="top">
 
-### [Sloop](https://swyclr.com) &nbsp; <img src="https://img.shields.io/badge/iOS_%2B_Android-000000?style=flat-square&logo=apple&logoColor=white" />
-
-A **barter marketplace** for iPhone and Android, built at Swyft Ventures. Swipe to match items, **AI item valuation**, hybrid cash-plus-item deals, **auction rooms**, escrow, location discovery and in-app chat.
-
-I wrote a **custom native Expo module** for Truecaller authentication, with its own Android sources, Gradle build and ProGuard rules.
-
-I also wrote an **Expo config plugin** to fix a silent **Android 11+ package-visibility** bug: the payment SDK ships an empty manifest, so UPI apps were invisible to the checkout and **the sandbox VPA passed while production quietly failed**.
-
-**Native** custom Expo module, config plugins, Hermes, New Architecture, Apple and Google Sign In, push
-**Payments** Cashfree UPI, RevenueCat subscriptions, escrow flow
-**Backend** Supabase, Express feed API, Jest and Testing Library
-
-<img src="https://img.shields.io/badge/native_module-EF4444?style=flat-square" /> <img src="https://img.shields.io/badge/config_plugin-EF4444?style=flat-square" /> <img src="https://img.shields.io/badge/payments_%2B_escrow-F59E0B?style=flat-square" />
-
-[Site](https://swyclr.com)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### [ShopSage](https://github.com/piyushagarwal-55/hackathon-we-make-devs)
 
 AI shopping assistant on **AWS Bedrock and Llama 3**.
@@ -262,6 +241,8 @@ Search, recommendations, personalisation, budget flows and generative UI.
 [Live](https://hackathon-we-make-devs.vercel.app/) · [Demo](https://youtu.be/2icL9ZYp3SY)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Nexus Flow](https://nexusflowbeta.vercel.app/)
@@ -271,8 +252,6 @@ Built on **SKALE Network**.
 [Live](https://nexusflowbeta.vercel.app/) · [Demo](https://youtu.be/S1DNJXRR7LI)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [RepVote](https://repvote-v1.vercel.app/)
@@ -280,6 +259,8 @@ Built on **SKALE Network**.
 Reputation-weighted voting. [Live](https://repvote-v1.vercel.app/)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [LNMIIT Carpool](https://github.com/piyushagarwal-55/carpool-lnmiit-work)
@@ -298,6 +279,24 @@ A carpool app **used on my own campus**. [Code](https://github.com/piyushagarwal
 <tr>
 <td width="50%" valign="top">
 
+### Swyclr · SDE 1 Intern
+<sub>Jan 2026 to Jun 2026 · Remote</sub>
+
+Built **Sloop**, a barter marketplace for **iPhone and Android**. Swipe to match items, AI item valuation, hybrid cash-plus-item deals, **auction rooms**, escrow, location discovery and in-app chat.
+
+Wrote a **custom native Expo module** for Truecaller authentication, with its own Android sources, Gradle build and ProGuard rules.
+
+Wrote an **Expo config plugin** to fix a silent **Android 11+ package-visibility** bug. The payment SDK ships an empty manifest, so UPI apps were invisible to the checkout and **the sandbox VPA passed while production quietly failed**.
+
+Shipped a **real-time swipe matching engine** where mutual opt-ins **instantly create matches**, on **Supabase row-level security** with live **Expo push**, released through a **GitHub Actions CI/CD pipeline** with automated tests and error tracking.
+
+<img src="https://img.shields.io/badge/native_module-EF4444?style=flat-square" /> <img src="https://img.shields.io/badge/config_plugin-EF4444?style=flat-square" /> <img src="https://img.shields.io/badge/payments_%2B_escrow-F59E0B?style=flat-square" /> <img src="https://img.shields.io/badge/CI%2FCD-10B981?style=flat-square" />
+
+[swyclr.com](https://swyclr.com)
+
+</td>
+<td width="50%" valign="top">
+
 ### Practers · Co-Founder and Founding Engineer
 <sub>Apr 2026 to Present</sub>
 
@@ -308,20 +307,6 @@ Built **resume-aware AI mock interviews** with authenticated WebSockets, Groq vo
 Built secure coding, contest and hiring modules on Judge0 with Redis and BullMQ queues, hidden tests, real-time verdicts, ATS analysis and OA proctoring.
 
 Deployed on **Google Cloud Run** with Docker, Secret Manager, R2-style storage, Razorpay, Resend and MSG91.
-
-</td>
-<td width="50%" valign="top">
-
-### Swyft Ventures · SDE 1 Intern
-<sub>Jan 2026 to Jun 2026 · Gemini-focused startup · Remote</sub>
-
-Designed and shipped a **real-time swipe-based matching engine** where mutual opt-ins **instantly create matches**.
-
-Backed by **Supabase row-level security** and live **Expo push on React Native**.
-
-Shipped **high-quality releases** with automated unit and integration tests in a **GitHub Actions CI/CD pipeline**, plus real-time monitoring and error tracking.
-
-<img src="https://img.shields.io/badge/React_Native-10B981?style=flat-square" /> <img src="https://img.shields.io/badge/CI%2FCD-10B981?style=flat-square" />
 
 </td>
 </tr>
