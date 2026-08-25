@@ -1,420 +1,386 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:00D9FF,100:7C3AED&height=200&section=header&text=PIYUSH%20AGARWAL&fontSize=54&fontColor=FFFFFF&fontAlignY=34&desc=I%20build%20the%20harness,%20not%20just%20the%20agent&descAlignY=54&descSize=18&animation=fadeIn" alt="Piyush Agarwal" />
+
 <div align="center">
 
-# PIYUSH AGARWAL
-
-### Full Stack Developer | CTO at Practers | AI Systems Builder
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Chief+Technology+Officer+%40+Practers;Next.js+16+%7C+React+19+%7C+Fastify+5+%7C+Prisma;Judge0+%7C+Socket.IO+%7C+BullMQ+%7C+Redis;Supabase+%7C+PostgreSQL+%7C+MongoDB+%7C+Cloud+Run;740%2B+DSA+Problems+Across+Platforms" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=900&color=00D9FF&center=true&vCenter=true&width=940&lines=Most+people+ship+a+prompt+and+hope.;I+ship+the+layer+that+catches+the+model+being+wrong.;Self-hosted+MCP+servers+across+4+projects;LLM-as-judge+eval+harnesses+gated+in+CI;Guardrails+enforced+outside+the+model,+not+in+a+prompt;Real-time+voice+agents+at+sub-second+latency;0+to+1000%2B+users,+shipped+solo" alt="Typing animation" />
 
 <br />
 
-<a href="mailto:piyushaga2005@gmail.com"><img src="https://img.shields.io/badge/Email-piyushaga2005%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.practers.com/"><img src="https://img.shields.io/badge/Practers-Live-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Practers" /></a>
-<a href="https://portfolio-of-piyush.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://github.com/piyushagarwal-55"><img src="https://img.shields.io/badge/GitHub-piyushagarwal--55-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://practers.com/"><img src="https://img.shields.io/badge/Practers-1000%2B_users_live-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://portfolio-of-piyush.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:piyushaga2005@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/piyush-agarwal-284988332"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/MCP_servers-4_projects,_self--hosted-0F172A?style=flat-square&labelColor=00D9FF&color=0F172A" />
+<img src="https://img.shields.io/badge/Eval_harnesses-gated_in_CI-0F172A?style=flat-square&labelColor=00D9FF&color=0F172A" />
+<img src="https://img.shields.io/badge/Voice_latency-sub--second-0F172A?style=flat-square&labelColor=00D9FF&color=0F172A" />
+<img src="https://img.shields.io/badge/Codeforces-1872_Knight-0F172A?style=flat-square&labelColor=7C3AED&color=0F172A" />
+<img src="https://img.shields.io/badge/DSA-740%2B_solved-0F172A?style=flat-square&labelColor=7C3AED&color=0F172A" />
 
 </div>
 
-## Why Me
+---
 
-```javascript
-const piyush = {
-  role: "Chief Technology Officer at Practers",
-  education: "B.Tech CCE, LNMIIT Jaipur",
-  cgpa: "7.52/10",
-  location: "Rupnagar, Punjab",
-  work: ["AI interview systems", "contest infra", "hiring dashboards", "secure OA"],
-  stack: ["Next.js 16", "React 19", "Fastify 5", "Prisma", "Supabase", "MongoDB", "Redis"],
-  infra: ["Google Cloud Run", "Docker", "BullMQ", "Judge0", "Cloudflare R2"],
-  coding: "740+ problems across LeetCode, Codeforces and GeeksForGeeks",
-  mindset: "Build fast. Debug deeply. Ship clean."
-};
-```
+## The 30 second version
 
-## Current Work
+> **The agent does not have taste. Either I do, or nobody on that surface does.**
+
+I am a **pre-final year CS student** who has already taken a product from **zero to 1000+ users** and built the tooling underneath it. I do not write prompts and hope. I build **the harness that catches an agent being confidently wrong**, because on every surface I own, that is what decides whether it ships or embarrasses me.
+
+I **run several plans in parallel** with Claude Code, custom skills and parallel subagents, and I have **opinions about which model gets which job**. I have shipped agents that **spend real money unsupervised**, which is a fast way to learn exactly where these systems fail and to build the habit of catching it.
+
+<table>
+<tr>
+<td width="33%" align="center">
+<h3>Built the tooling</h3>
+<b>Self-hosted MCP servers</b><br />
+<b>LLM-as-judge harnesses</b><br />
+<b>Policy-as-code guardrails</b><br />
+<sub>Not autocomplete. Infrastructure.</sub>
+</td>
+<td width="33%" align="center">
+<h3>Shipped solo</h3>
+<b>0 to 1000+ users</b><br />
+<b>1000+ live sessions</b><br />
+<b>Backend, frontend, infra, 3am pages</b><br />
+<sub>Nobody handed me a ticket.</sub>
+</td>
+<td width="33%" align="center">
+<h3>Real-time and money</h3>
+<b>Sub-second voice over WebSockets</b><br />
+<b>Agents that spend real money</b><br />
+<b>Prediction markets, OT collaboration</b><br />
+<sub>Where being wrong actually costs.</sub>
+</td>
+</tr>
+</table>
+
+---
+
+## Agent tooling, the part most people skip
+
+<div align="center">
+<b>Anyone can get a demo working. The hard part is knowing in ten seconds that an agent has confidently produced garbage.</b><br />
+<sub>Here is what I built so I would know.</sub>
+</div>
+
+<br />
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Practers | Chief Technology Officer
+### Self-hosted MCP servers
 
-Apr 2026 to Present
+**LaunchOps** exposes **13 tools over a self-hosted MCP server** that let an agent provision live cloud infrastructure, databases, hosting and domains.
 
-Leading architecture for an AI native interview preparation and hiring platform built as a Turborepo monorepo with Next.js 16, React 19, TypeScript, Fastify 5, Prisma, Supabase, PostgreSQL, MongoDB, Redis, BullMQ and Socket.IO.
+**FlowForge** runs its own MCP server exposing a **node-based workflow engine as an agent-callable tool**.
 
-Built resume aware AI mock interviews with authenticated WebSockets, Groq voice/text sessions, Gemini/OpenAI integrations, stage orchestration, code/canvas snapshots and rubric scored reports.
-
-Built secure coding, contest and hiring modules using Judge0, Redis/BullMQ queues, hidden tests, real time verdicts, ATS resume analysis, Monaco editor, Excalidraw scratchpads and OA proctoring.
-
-Deployed services on Google Cloud Run with Docker, Secret Manager, Cloudflare R2 style storage, Razorpay payments, Resend email and MSG91 verification.
-
-<a href="https://www.practers.com/">Live product</a>
+MCP integrations across **4 separate projects**, HTTP and Stdio transports.
 
 </td>
 <td width="50%" valign="top">
 
-### A1 Selectors | Software Developer Intern
+### LLM-as-judge eval harnesses
 
-Aug 2025 to Dec 2025
+Every Practers interview is scored by **parallel specialised judge models** covering correctness, problem solving, code quality and communication, combined by an **orchestrator** into a rubric-grounded verdict.
 
-Built scalable REST APIs for automated resume parsing using NLP based extraction, reducing manual screening effort by 35 percent across recruiter workflows.
+Judge-to-human agreement is **measured on a golden set**. Where judges disagree with each other, the case **auto-escalates to a human** instead of being silently scored. The whole suite runs **in CI, so a bad prompt change fails the build like a unit test**.
 
-Developed AI recruitment workflows for candidate matching, ranking, scheduling automation, filtering, analytics and recruiter decision support.
+**Pounce** runs a second judge harness on Groq against recorded agent runs.
 
-Implemented backend analytics for parsing accuracy, shortlist quality, recruiter activity and candidate pipeline movement.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Guardrails enforced outside the model
+
+In **Pounce**, an agent completes real purchases with **nobody watching when money moves**. So the spending cap does not sit in my code or in a prompt. It sits **inside the payment mandate, where the bank enforces it**. A fully compromised agent still cannot exceed it.
+
+Deterministic state machine with the **model advisory only**, idempotency keys on every attempt, advisory locks so two triggers cannot double-fire, signature-verified webhooks, and a **replayable audit trail** of every decision.
+
+**LaunchOps** adds **policy-as-code**: a scope, budget and approval engine, a dry-run mode, and a ledger.
+
+</td>
+<td width="50%" valign="top">
+
+### How I actually work
+
+I run **several plans in parallel** with Claude Code, custom skills and parallel subagents, and I **route work by which model is genuinely good at it** rather than by habit.
+
+I write **CI guard scripts that fail a build on policy violations**, not just on failing tests. One of mine fails the build if a credential identifier appears **anywhere outside the single module allowed to hold it**.
+
+The rule I work by: **the model advises, deterministic code decides.**
 
 </td>
 </tr>
 </table>
 
-## Practers Contribution Proof
+---
 
-<div align="center">
+## Shipped, with real people using it
 
-Verified from the private <b>mockr-labs/practers</b> repository insights. Across a large, multi developer, high infrastructure codebase, I authored the highest volume of code on the team.
-
-</div>
-
-<table width="100%">
+<table>
 <tr>
-<td align="center" width="270">
-<h3>Rank</h3>
-<h2>#2</h2>
-<p>contributor by commits</p>
+<td width="60%" valign="top">
+
+### [Practers](https://practers.com/) &nbsp; <img src="https://img.shields.io/badge/live-1000%2B_users-00D9FF?style=flat-square" />
+
+A **real-time AI interviewer**. It holds a live voice conversation at **sub-second latency over WebSockets** and **adapts its questions to the candidate's own resume** mid-interview.
+
+Taken **0 to 1000+ users across 1000+ sessions**, with live health monitoring. Turborepo monorepo, secure coding rounds on Judge0, contest infra, ATS analysis, OA proctoring.
+
+The hard part was never the interview. It was making the **score defensible**, which is where the judge harness came from.
+
+**Stack** Next.js 16, React 19, Fastify 5, Prisma, Supabase, PostgreSQL, MongoDB, Redis, BullMQ, Socket.IO, Judge0
+**Infra** Google Cloud Run, Docker, Cloud Build, Cloudflare R2, Razorpay, Resend, MSG91
+
 </td>
-<td align="center" width="270">
-<h3>Lines Added</h3>
-<h2>210,311</h2>
-<p>most on the team</p>
-</td>
-<td align="center" width="270">
-<h3>Commits</h3>
-<h2>105</h2>
-<p>to main branch</p>
-</td>
-<td align="center" width="270">
-<h3>Peak Week</h3>
-<h2>92,608</h2>
-<p>additions in one week</p>
+<td width="40%" valign="top">
+
+### Contribution proof
+
+Verified from the private **mockr-labs/practers** repository insights.
+
+**#2** contributor by commits
+**210,311** lines added, the **highest of any contributor** on the team
+**105** commits to main
+**92,608** additions in a single peak week
+
+<img src="images/image4.png" alt="Practers contributor leaderboard showing 105 commits and 210,311 additions" width="100%" />
+
 </td>
 </tr>
 </table>
 
-<table width="100%">
-<tr>
-<td align="center" width="480" valign="top">
-<h3>Contributor Leaderboard</h3>
-<p>Ranked #2 by commits with 210,311 additions, the highest line count of any contributor.</p>
-<img src="images/image4.png" alt="Practers contributor leaderboard showing piyushagarwal-55 at 105 commits and 210,311 additions" width="460" />
-</td>
-<td align="center" width="480" valign="top">
-<h3>My Contributor Card</h3>
-<p>105 commits, 210,311 additions and 29,955 deletions to the Practers codebase.</p>
-<img src="images/image2.png" alt="piyushagarwal-55 contributor card: 105 commits, 210,311 additions, 29,955 deletions" width="460" />
-</td>
-</tr>
-<tr>
-<td align="center" width="480" valign="top">
-<h3>Code Frequency</h3>
-<p>Weekly additions and deletions, peaking at 92,608 additions in a single week.</p>
-<img src="images/image1.png" alt="Practers code frequency chart of weekly additions and deletions" width="460" />
-</td>
-<td align="center" width="480" valign="top">
-<h3>Commits Over Time</h3>
-<p>Sustained weekly contribution to the main branch of a production, multi service platform.</p>
-<img src="images/image3.png" alt="Practers commits over time insights page" width="460" />
-</td>
-</tr>
-</table>
+---
 
-## Tech Stack
-
-<div align="center">
-
-### Languages
-<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,c" alt="Languages" />
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" alt="Frontend" />
-
-### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,prisma" alt="Backend" />
-
-### Database and Infrastructure
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,redis,docker,gcp,git,github" alt="Database and infrastructure" />
-
-<br />
-<br />
-
-<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
-<img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" />
-<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO" />
-<img src="https://img.shields.io/badge/BullMQ-DC2626?style=for-the-badge&logo=redis&logoColor=white" alt="BullMQ" />
-<img src="https://img.shields.io/badge/Judge0-2E3440?style=for-the-badge&logo=codeforces&logoColor=white" alt="Judge0" />
-<img src="https://img.shields.io/badge/Monaco_Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Monaco Editor" />
-<img src="https://img.shields.io/badge/Excalidraw-6965DB?style=for-the-badge&logo=excalidraw&logoColor=white" alt="Excalidraw" />
-<img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow.js" />
-<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" />
-<img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Run" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-<img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare R2" />
-<img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white" alt="Razorpay" />
-<img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white" alt="Resend" />
-<img src="https://img.shields.io/badge/MSG91-111827?style=for-the-badge&logo=maildotru&logoColor=white" alt="MSG91" />
-<img src="https://img.shields.io/badge/Deepgram-13EF93?style=for-the-badge&logo=deepgram&logoColor=black" alt="Deepgram" />
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq" />
-<img src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Bedrock" />
-<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
-<img src="https://img.shields.io/badge/System_Design-0F172A?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="System Design" />
-
-</div>
-
-## Education
+## Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### The LNM Institute of Information Technology
+### [Pounce](https://github.com/piyushagarwal-55/teampounce) &nbsp; <img src="https://img.shields.io/badge/agents_that-spend_real_money-7C3AED?style=flat-square" />
 
-B.Tech in Communication and Computer Engineering
+**5 role-bounded LLM agents** running through a **tool-calling harness on Groq**, transacting with live merchants over **MCP and Shopify UCP**, grounding every pick on a **Senso RAG context layer**.
 
-2024 to Expected 2028
+The **autonomous mandate agent** arms a **capped, time-bound authorization once**, then buys on its own **on a price drop**, with nobody watching when the money moves.
 
-CGPA: **7.52/10**
+**Why it matters:** I shipped an **LLM-as-judge eval harness scoring every tool call on real merchant data**, specifically to catch **confident-wrong actions before checkout**. The cap itself lives outside the model, so a compromised agent still cannot exceed it.
 
-Jaipur, Rajasthan
+**Stack** OpenAI gpt-4o, MCP / Shopify UCP, Prava, Senso (RAG), Next.js, TypeScript, WebSockets
 
-</td>
-<td width="50%" valign="top">
-
-### Coursework and Core Areas
-
-Data Structures and Algorithms, Object Oriented Programming, DBMS, Operating Systems, Computer Networks, System Design, LLMs, AWS Bedrock and Multi Agent Systems.
-
-</td>
-</tr>
-</table>
-
-## Live Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [Practers](https://www.practers.com/)
-
-AI native interview preparation and hiring platform with resume aware mock interviews, peer interviews, coding rounds, contests, secure OA, ATS analysis, proctoring and company hiring dashboards.
-
-**Stack:** Next.js 16, React 19, TypeScript, Fastify 5, Prisma, Supabase, PostgreSQL, MongoDB, Redis, BullMQ, Socket.IO, Judge0
-
-**Infra:** Google Cloud Run, Docker, Cloud Build, Cloudflare R2, Vercel, Razorpay, Resend, MSG91
-
-**Links:** [Live](https://www.practers.com/)
+[Live](https://teampounce.vercel.app) · [Code](https://github.com/piyushagarwal-55/teampounce)
 
 </td>
 <td width="50%" valign="top">
 
-### [Sheet AI Pro](https://github.com/piyushagarwal-55/sheet-ai-pro)
+### [LaunchOps](https://github.com/piyushagarwal-55/launchops-hackathon) &nbsp; <img src="https://img.shields.io/badge/built_in-a_weekend-00D9FF?style=flat-square" />
 
-Real time collaborative spreadsheet with Operational Transformation over WebSockets, persistent multi user state and reconnect safe synchronization.
+An agent that **provisions live cloud resources**, exposed as **13 tools over a self-hosted MCP server**.
 
-**Stack:** Next.js, Node.js, WebSockets, PostgreSQL
+**Why it is interesting:** **policy-as-code** with a scope, budget and approval engine plus a dry-run mode, so an agent cannot exceed granted authority.
 
-**Proof:** under 100ms recalculation across 2,500+ cells
+**Stack** Next.js, TypeScript, MCP (HTTP and Stdio), Socket.io, Node.js
+
+[Live](https://launchops-hackathon.vercel.app) · [Code](https://github.com/piyushagarwal-55/launchops-hackathon)
 
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+### [FlowForge](https://github.com/piyushagarwal-55/flowforge)
+
+**Natural language specs compiled into deployable REST APIs** through an LLM tool-calling pipeline, with a node-based workflow engine exposed as an agent-callable tool over its own MCP server.
+
+**Stack** Next.js, TypeScript, Node.js, MCP, LLM tool-calling
+
+[Live](https://flowforge-i871.vercel.app) · [Demo](https://youtu.be/VcgeOuzxbdg) · [Code](https://github.com/piyushagarwal-55/flowforge)
+
+</td>
+<td width="50%" valign="top">
+
+### [Sheet AI Pro](https://github.com/piyushagarwal-55/sheet-ai-pro) &nbsp; <img src="https://img.shields.io/badge/real--time-multi--user-00D9FF?style=flat-square" />
+
+Real-time collaborative spreadsheet with **Operational Transformation over WebSockets**, persistent multi-user state and reconnect-safe synchronisation.
+
+**Proof** under **100ms recalculation across 2,500+ cells**
+
+[Code](https://github.com/piyushagarwal-55/sheet-ai-pro)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Prediction Market](https://pridiction-market-frontend-nfrj.vercel.app/) &nbsp; <img src="https://img.shields.io/badge/risk-%26_markets-7C3AED?style=flat-square" />
+
+A **prediction market** where positions are priced by what people actually believe, not by what they say. Building it is the fastest way to learn that **a probability only means something when someone has money on it**.
+
+[Live](https://pridiction-market-frontend-nfrj.vercel.app/)
+
+<!-- SWAPPR: send me these four things and I will write this card properly.
+     1. one line on what it does
+     2. Swift or React Native
+     3. App Store link
+     4. any user or download number
+     They list "shipped something to the App Store yourself, at any scale" as a brownie point,
+     so this is worth getting right rather than guessing.
+-->
+
+
+
+</td>
 <td width="50%" valign="top">
 
 ### [ShopSage](https://github.com/piyushagarwal-55/hackathon-we-make-devs)
 
-AI shopping assistant using AWS Bedrock and Llama 3 for search, recommendations, personalization, budget flows and generative UI.
+AI shopping assistant on **AWS Bedrock and Llama 3** for search, recommendations, personalisation, budget flows and generative UI.
 
-**Stack:** Next.js, FastAPI, MongoDB, AWS Bedrock, Llama 3
-
-**Links:** [Live](https://hackathon-we-make-devs.vercel.app/) | [Demo](https://youtu.be/2icL9ZYp3SY?si=GYkttEaxtOI2zbV1)
+[Live](https://hackathon-we-make-devs.vercel.app/) · [Demo](https://youtu.be/2icL9ZYp3SY)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Nexus Flow](https://nexusflowbeta.vercel.app/)
 
-Web3 full stack project built around blockchain product UX and SKALE Network integration.
+Built on **SKALE Network**. [Live](https://nexusflowbeta.vercel.app/) · [Demo](https://youtu.be/S1DNJXRR7LI)
 
-**Stack:** Web3, SKALE Network, Full Stack
+</td>
+<td width="50%" valign="top">
 
-**Links:** [Live](https://nexusflowbeta.vercel.app/) | [Demo](https://youtu.be/S1DNJXRR7LI?si=GoA0i85SfAU4o5gC)
+### [RepVote](https://repvote-v1.vercel.app/) &nbsp; and &nbsp; [LNMIIT Carpool](https://github.com/piyushagarwal-55/carpool-lnmiit-work)
+
+Reputation-weighted voting, and a carpool app used on my own campus.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Experience
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Practers &nbsp;|&nbsp; Co-Founder and Founding Engineer
+<sub>Apr 2026 to Present</sub>
+
+Led architecture for an **AI-native interview and hiring platform** as a Turborepo monorepo.
+
+Built **resume-aware AI mock interviews** with authenticated WebSockets, Groq voice and text sessions, Gemini and OpenAI integrations, stage orchestration, code and canvas snapshots, and **rubric-scored reports**.
+
+Built secure coding, contest and hiring modules on Judge0 with Redis and BullMQ queues, hidden tests, real-time verdicts, ATS resume analysis and OA proctoring.
+
+Deployed on **Google Cloud Run** with Docker, Secret Manager, R2-style storage, Razorpay, Resend and MSG91.
+
+</td>
+<td width="50%" valign="top">
+
+### Swyft Ventures &nbsp;|&nbsp; SDE 1 Intern
+<sub>Jan 2026 to Jun 2026 · Gemini-focused startup · Remote</sub>
+
+Designed and shipped a **real-time swipe-based matching engine** where mutual opt-ins **instantly create matches**, backed by **Supabase row-level security** and live **Expo push on React Native**.
+
+Shipped **high-quality releases** with automated unit and integration tests in a **GitHub Actions CI/CD pipeline**, plus real-time monitoring and error tracking for production reliability.
+
+**React Native (Expo), Supabase, PostgreSQL, Prisma, Express, WebSockets, Jest/Vitest, GitHub Actions**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [RepVote](https://repvote-v1.vercel.app/)
+### A1 Selectors &nbsp;|&nbsp; Software Developer Intern
+<sub>Aug 2025 to Dec 2025</sub>
 
-Decentralized voting and prediction style polling with smart contracts deployed on Arbitrum Sepolia.
+Built scalable REST APIs for **automated resume parsing** using NLP-based extraction, **cutting manual screening effort by 35 percent** across recruiter workflows.
 
-**Stack:** TypeScript, Solidity, Arbitrum, Web3
-
-**Links:** [Live](https://repvote-v1.vercel.app/) | [Repo](https://github.com/piyushagarwal-55/hackathon-main)
+Developed AI recruitment workflows for candidate matching, ranking, scheduling automation, filtering and recruiter decision support.
 
 </td>
 <td width="50%" valign="top">
 
-### [LNMIIT Carpool App](https://github.com/piyushagarwal-55/carpool-lnmiit-work)
+### Teaching Assistant &nbsp;|&nbsp; LNMIIT
+<sub>Ongoing</sub>
 
-Ride sharing app for 100+ students with ride creation, seat booking, approvals, group chat and location based coordination.
+Mentored students across **two semesters**, communicating complex ideas and presenting solutions in labs.
 
-**Stack:** React Native, TypeScript, Supabase, Socket.IO
-
-**Links:** [APK](https://github.com/piyushagarwal-55/carpool-lnmiit-work/releases/download/v1.0.0/LNMIIT.Carpool.apk)
+**B.Tech Communication and Computer Engineering**, CGPA **7.52**, Aug 2024 to Aug 2028.
 
 </td>
 </tr>
 </table>
 
-## Video Proof
+---
 
-<table width="100%">
-<tr>
-
-<td align="center" width="25%">
-<h3>FlowForge</h3>
-<p>Generative UI backend builder</p>
-<a href="https://youtu.be/VcgeOuzxbdg?si=QHoUZsFBWw5Hm0vV">
-<img src="https://img.shields.io/badge/Watch_Demo-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="FlowForge demo" />
-</a>
-</td>
-<td align="center" width="25%">
-<h3>ShopSage</h3>
-<p>Tambo hackathon project demo</p>
-<a href="https://youtu.be/2icL9ZYp3SY?si=GYkttEaxtOI2zbV1">
-<img src="https://img.shields.io/badge/Watch_Demo-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="ShopSage demo" />
-</a>
-</td>
-<td align="center" width="25%">
-<h3>Nexus Flow</h3>
-<p>SKALE Network project demo</p>
-<a href="https://youtu.be/S1DNJXRR7LI?si=GoA0i85SfAU4o5gC">
-<img src="https://img.shields.io/badge/Watch_Demo-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Nexus Flow demo" />
-</a>
-</td>
-</tr>
-</table>
-
-## More Live Links
+## Open source
 
 <div align="center">
 
-<a href="https://gamma-ai-watermark-remover.vercel.app/"><img src="https://img.shields.io/badge/Gamma_AI_Watermark_Remover-Live-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Gamma AI Watermark Remover" /></a>
-<a href="https://pridiction-market-frontend-nfrj.vercel.app/"><img src="https://img.shields.io/badge/Prediction_Market-Live-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Prediction Market" /></a>
-
-<a href="https://youtu.be/VcgeOuzxbdg?si=QHoUZsFBWw5Hm0vV"><img src="https://img.shields.io/badge/FlowForge-Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="FlowForge demo" /></a>
-
+| Project | What I did | Why it counts |
+|---|---|---|
+| **[Zulip](https://github.com/zulip/zulip)** <sub>GSoC org</sub> | Merged PR migrating banners to a **shared component** across their large-scale Django codebase | Code other engineers actually use, in a repo I did not control |
+| **AOSSIE** <sub>GSoC org</sub> | Diagnosed and fixed a **governance-audit bug** in OrgExplorer | It was **inflating dashboard metrics by up to 12x** |
 
 </div>
 
-## Achievements
+---
 
-<table width="100%">
-<tr>
-<td align="center" width="270">
-<h3>LeetCode</h3>
-<h2>400+</h2>
-<p>questions solved</p>
-</td>
-<td align="center" width="270">
-<h3>Codeforces</h3>
-<h2>220+</h2>
-<p>questions solved</p>
-</td>
-<td align="center" width="270">
-<h3>GeeksForGeeks</h3>
-<h2>200+</h2>
-<p>questions solved</p>
-</td>
-<td align="center" width="270">
-<h3>CGPA</h3>
-<h2>7.52/10</h2>
-<p>LNMIIT</p>
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2" width="540">
-<h3>Google Big Code Hackathon 2026</h3>
-<p>Cleared 3 competitive coding rounds</p>
-</td>
-<td align="center" width="270">
-<h3>Unstoppable Hackathon</h3>
-<p>Top 10 team</p>
-</td>
-<td align="center" width="270">
-<h3>AI for Bharat AWS</h3>
-<p>Top 300 teams</p>
-</td>
-</tr>
-</table>
-
-## Coding Profiles
-
-<table width="100%">
-<tr>
-<td align="center" width="33%">
-<a href="https://leetcode.com/u/piyushagarwal-55/">
-<img src="https://img.shields.io/badge/LeetCode-400%2B%20solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-</a>
-<br />
-<br />
-<a href="https://leetcode.com/u/piyushagarwal_55/">View profile</a>
-</td>
-<td align="center" width="33%">
-<a href="https://codeforces.com/profile/piyushagarwal_5">
-<img src="https://img.shields.io/badge/Codeforces-220%2B%20solved-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-</a>
-<br />
-<br />
-<a href="https://codeforces.com/profile/piyushagarwal-5">View profile</a>
-</td>
-<td align="center" width="33%">
-<a href="https://www.geeksforgeeks.org/profile/piyushagarwal_55?tab=activity">
-<img src="https://img.shields.io/badge/GeeksForGeeks-200%2B%20solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks" />
-</a>
-<br />
-<br />
-<a href="https://www.geeksforgeeks.org/user/piyushagarwal-55">View profile</a>
-</td>
-</tr>
-</table>
-
-## GitHub Analytics
+## Competitive
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushagarwal-55&theme=algolia&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api?username=piyushagarwal-55&show_icons=true&theme=algolia&hide_border=true&border_radius=10&include_all_commits=true" alt="GitHub stats" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushagarwal-55&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution graph" width="98%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushagarwal-55&layout=compact&theme=algolia&hide_border=true&border_radius=10&langs_count=8" alt="Top languages" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=piyushagarwal-55&theme=algolia&utcOffset=5.5" alt="Productive time" width="49%" />
+<table>
+<tr>
+<td align="center" width="25%"><h3>LeetCode</h3><h2>450+</h2><sub>solved</sub></td>
+<td align="center" width="25%"><h3>Codeforces</h3><h2>1872</h2><sub>Knight, 220+ solved</sub></td>
+<td align="center" width="25%"><h3>GeeksforGeeks</h3><h2>200+</h2><sub>solved</sub></td>
+<td align="center" width="25%"><h3>Hackathons</h3><h2>Top 1%</h2><sub>Google Big Code 2026, AWS ML</sub></td>
+</tr>
+</table>
+
+<sub><b>Google Big Code Hackathon 2026</b>: top 1% after three national elimination rounds. <b>Teaching Assistant</b> at LNMIIT.</sub>
 
 </div>
 
-## Contribution Graph
+---
+
+## Stack
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piyushagarwal-55/piyushagarwal-55/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/piyushagarwal-55/piyushagarwal-55/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution graph animation" src="https://raw.githubusercontent.com/piyushagarwal-55/piyushagarwal-55/output/github-contribution-grid-snake.svg">
-</picture>
+**AI and agents** &nbsp; MCP · eval harnesses · LLM-as-judge · agentic workflows · RAG · prompt evaluation · tool-calling
 
-<br />
-<br />
-
-<img src="https://komarev.com/ghpvc/?username=piyushagarwal-55&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,c,nodejs,nextjs,react,tailwind,fastapi,express,postgres,mongodb,redis,supabase,prisma,docker,gcp,aws,git,githubactions,vercel" alt="Stack" />
 
 </div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=piyushagarwal-55&show_icons=true&theme=react&hide_border=true&bg_color=0F172A&title_color=00D9FF&icon_color=7C3AED&text_color=FFFFFF" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushagarwal-55&theme=react&hide_border=true&background=0F172A&ring=00D9FF&fire=7C3AED&currStreakLabel=00D9FF" height="165" />
+
+<img src="https://raw.githubusercontent.com/piyushagarwal-55/piyushagarwal-55/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%" />
+
+<br />
+
+### If you are hiring someone to own a surface end to end, I am the one you point at when it breaks.
+
+<a href="mailto:piyushaga2005@gmail.com"><img src="https://img.shields.io/badge/piyushaga2005@gmail.com-Email_me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://practers.com/"><img src="https://img.shields.io/badge/See_it_running-practers.com-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:00D9FF,100:0F172A&height=120&section=footer" alt="" />
