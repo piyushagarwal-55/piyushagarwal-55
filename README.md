@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=900&color=00D9FF&center=true&vCenter=true&width=940&lines=Most+people+ship+a+prompt+and+hope.;I+ship+the+layer+that+catches+the+model+being+wrong.;Self-hosted+MCP+servers+across+4+projects;LLM-as-judge+eval+harnesses+gated+in+CI;Guardrails+enforced+outside+the+model,+not+in+a+prompt;Real-time+voice+agents+at+sub-second+latency;0+to+1000%2B+users,+shipped+solo" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=900&color=00D9FF&center=true&vCenter=true&width=940&lines=Most+people+ship+a+prompt+and+hope.;I+ship+the+layer+that+catches+the+agent+being+wrong.;5+role-bounded+agents+that+spend+real+money;Self-hosted+MCP+servers+across+4+projects;LLM-as-judge+harnesses+gated+in+CI;Sub-second+voice.+0+to+1000%2B+users.+Shipped+solo." alt="Typing animation" />
 
 <br />
 
@@ -11,59 +11,50 @@
 <a href="mailto:piyushaga2005@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/piyush-agarwal-284988332"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<br /><br />
-
-<img src="https://img.shields.io/badge/MCP_servers-4_projects,_self--hosted-0F172A?style=flat-square&labelColor=00D9FF&color=0F172A" />
-<img src="https://img.shields.io/badge/Eval_harnesses-gated_in_CI-0F172A?style=flat-square&labelColor=00D9FF&color=0F172A" />
-<img src="https://img.shields.io/badge/Voice_latency-sub--second-0F172A?style=flat-square&labelColor=00D9FF&color=0F172A" />
-<img src="https://img.shields.io/badge/Codeforces-1872_Knight-0F172A?style=flat-square&labelColor=7C3AED&color=0F172A" />
-<img src="https://img.shields.io/badge/DSA-740%2B_solved-0F172A?style=flat-square&labelColor=7C3AED&color=0F172A" />
-
 </div>
 
 ---
 
 ## The 30 second version
 
-> **The agent does not have taste. Either I do, or nobody on that surface does.**
+<div align="center">
 
-I am a **pre-final year CS student** who has already taken a product from **zero to 1000+ users** and built the tooling underneath it. I do not write prompts and hope. I build **the harness that catches an agent being confidently wrong**, because on every surface I own, that is what decides whether it ships or embarrasses me.
+### The agent does not have taste. Either I do, or nobody on that surface does.
 
-I **run several plans in parallel** with Claude Code, custom skills and parallel subagents, and I have **opinions about which model gets which job**. I have shipped agents that **spend real money unsupervised**, which is a fast way to learn exactly where these systems fail and to build the habit of catching it.
+</div>
 
-<table>
-<tr>
-<td width="33%" align="center">
-<h3>Built the tooling</h3>
-<b>Self-hosted MCP servers</b><br />
-<b>LLM-as-judge harnesses</b><br />
-<b>Policy-as-code guardrails</b><br />
-<sub>Not autocomplete. Infrastructure.</sub>
-</td>
-<td width="33%" align="center">
-<h3>Shipped solo</h3>
-<b>0 to 1000+ users</b><br />
-<b>1000+ live sessions</b><br />
-<b>Backend, frontend, infra, 3am pages</b><br />
-<sub>Nobody handed me a ticket.</sub>
-</td>
-<td width="33%" align="center">
-<h3>Real-time and money</h3>
-<b>Sub-second voice over WebSockets</b><br />
-<b>Agents that spend real money</b><br />
-<b>Prediction markets, OT collaboration</b><br />
-<sub>Where being wrong actually costs.</sub>
-</td>
-</tr>
-</table>
+Pre-final year CS student. Already took a product from **zero to 1000+ users** and built the tooling underneath it.
+
+I do not write prompts and hope.
+
+I build **the harness that catches an agent being confidently wrong**, because that is what decides whether a surface ships or embarrasses me.
+
+<img src="https://img.shields.io/badge/0_%E2%86%92_1000%2B_users-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/shipped_solo-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/sub--second_voice-00D9FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/4_MCP_servers-00D9FF?style=for-the-badge" />
+
+I run **several plans in parallel** with Claude Code, custom skills and parallel subagents.
+
+I have opinions about **which model gets which job**, and I did not get them from a blog post.
+
+I ship agents that **spend real money unsupervised**. That is a fast way to learn exactly where these systems fail.
+
+<img src="https://img.shields.io/badge/parallel_agent_plans-F59E0B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/agents_that_move_money-F59E0B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/evals_gated_in_CI-F59E0B?style=for-the-badge" />
 
 ---
 
 ## Agent tooling, the part most people skip
 
 <div align="center">
-<b>Anyone can get a demo working. The hard part is knowing in ten seconds that an agent has confidently produced garbage.</b><br />
-<sub>Here is what I built so I would know.</sub>
+
+**Anyone can get a demo working.**
+**The hard part is knowing in ten seconds that an agent has confidently produced garbage.**
+
+<sub>Here is what I built so that I would know.</sub>
+
 </div>
 
 <br />
@@ -74,22 +65,32 @@ I **run several plans in parallel** with Claude Code, custom skills and parallel
 
 ### Self-hosted MCP servers
 
-**LaunchOps** exposes **13 tools over a self-hosted MCP server** that let an agent provision live cloud infrastructure, databases, hosting and domains.
+**LaunchOps** exposes **13 tools** over a self-hosted MCP server.
 
-**FlowForge** runs its own MCP server exposing a **node-based workflow engine as an agent-callable tool**.
+An agent uses them to provision live cloud infrastructure, databases, hosting and domains.
 
-MCP integrations across **4 separate projects**, HTTP and Stdio transports.
+**FlowForge** runs its own MCP server, exposing a node-based workflow engine as an **agent-callable tool**.
+
+<img src="https://img.shields.io/badge/13_tools-00D9FF?style=flat-square" />
+<img src="https://img.shields.io/badge/4_projects-00D9FF?style=flat-square" />
+<img src="https://img.shields.io/badge/HTTP_%2B_Stdio-00D9FF?style=flat-square" />
 
 </td>
 <td width="50%" valign="top">
 
 ### LLM-as-judge eval harnesses
 
-Every Practers interview is scored by **parallel specialised judge models** covering correctness, problem solving, code quality and communication, combined by an **orchestrator** into a rubric-grounded verdict.
+Every Practers interview is scored by **parallel specialised judge models**, combined by an orchestrator into a **rubric-grounded verdict**.
 
-Judge-to-human agreement is **measured on a golden set**. Where judges disagree with each other, the case **auto-escalates to a human** instead of being silently scored. The whole suite runs **in CI, so a bad prompt change fails the build like a unit test**.
+Judge-to-human agreement is **measured on a golden set**.
 
-**Pounce** runs a second judge harness on Groq against recorded agent runs.
+Where judges disagree, the case **auto-escalates to a human** instead of being silently scored.
+
+The suite runs **in CI, so a bad prompt change fails the build** like a unit test.
+
+<img src="https://img.shields.io/badge/golden_set-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/auto--escalates-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/fails_the_build-7C3AED?style=flat-square" />
 
 </td>
 </tr>
@@ -98,22 +99,34 @@ Judge-to-human agreement is **measured on a golden set**. Where judges disagree 
 
 ### Guardrails enforced outside the model
 
-In **Pounce**, an agent completes real purchases with **nobody watching when money moves**. So the spending cap does not sit in my code or in a prompt. It sits **inside the payment mandate, where the bank enforces it**. A fully compromised agent still cannot exceed it.
+In **Pounce**, an agent completes real purchases with **nobody watching when money moves**.
 
-Deterministic state machine with the **model advisory only**, idempotency keys on every attempt, advisory locks so two triggers cannot double-fire, signature-verified webhooks, and a **replayable audit trail** of every decision.
+So the cap does not sit in my code, and it does not sit in a prompt.
 
-**LaunchOps** adds **policy-as-code**: a scope, budget and approval engine, a dry-run mode, and a ledger.
+It sits **inside the payment mandate, where the bank enforces it**. A fully compromised agent still cannot exceed it.
+
+Deterministic state machine, **model advisory only**. Idempotency keys. Advisory locks. Signature-verified webhooks. A **replayable audit trail** of every decision.
+
+<img src="https://img.shields.io/badge/bank--enforced_cap-F59E0B?style=flat-square" />
+<img src="https://img.shields.io/badge/model_advisory_only-F59E0B?style=flat-square" />
+<img src="https://img.shields.io/badge/replayable_trail-F59E0B?style=flat-square" />
 
 </td>
 <td width="50%" valign="top">
 
 ### How I actually work
 
-I run **several plans in parallel** with Claude Code, custom skills and parallel subagents, and I **route work by which model is genuinely good at it** rather than by habit.
+I run **several plans in parallel**, and route work by **which model is genuinely good at it** rather than by habit.
 
-I write **CI guard scripts that fail a build on policy violations**, not just on failing tests. One of mine fails the build if a credential identifier appears **anywhere outside the single module allowed to hold it**.
+I write **CI guard scripts that fail a build on policy violations**, not just on failing tests.
+
+One of mine fails the build if a credential identifier appears **anywhere outside the single module allowed to hold it**.
 
 The rule I work by: **the model advises, deterministic code decides.**
+
+<img src="https://img.shields.io/badge/Claude_Code-10B981?style=flat-square" />
+<img src="https://img.shields.io/badge/custom_skills-10B981?style=flat-square" />
+<img src="https://img.shields.io/badge/parallel_subagents-10B981?style=flat-square" />
 
 </td>
 </tr>
@@ -125,30 +138,40 @@ The rule I work by: **the model advises, deterministic code decides.**
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
-### [Practers](https://practers.com/) &nbsp; <img src="https://img.shields.io/badge/live-1000%2B_users-00D9FF?style=flat-square" />
+### [Practers](https://practers.com/)
 
-A **real-time AI interviewer**. It holds a live voice conversation at **sub-second latency over WebSockets** and **adapts its questions to the candidate's own resume** mid-interview.
+A **real-time AI interviewer**.
 
-Taken **0 to 1000+ users across 1000+ sessions**, with live health monitoring. Turborepo monorepo, secure coding rounds on Judge0, contest infra, ATS analysis, OA proctoring.
+It holds a live voice conversation at **sub-second latency over WebSockets**, and **adapts its questions to the candidate's own resume** while the interview is happening.
+
+Taken **0 to 1000+ users across 1000+ sessions**, with live health monitoring.
 
 The hard part was never the interview. It was making the **score defensible**, which is where the judge harness came from.
 
+<img src="https://img.shields.io/badge/1000%2B_users-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/1000%2B_sessions-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/sub--second_voice-00D9FF?style=for-the-badge" />
+
 **Stack** Next.js 16, React 19, Fastify 5, Prisma, Supabase, PostgreSQL, MongoDB, Redis, BullMQ, Socket.IO, Judge0
+
 **Infra** Google Cloud Run, Docker, Cloud Build, Cloudflare R2, Razorpay, Resend, MSG91
 
 </td>
-<td width="40%" valign="top">
+<td width="42%" valign="top">
 
 ### Contribution proof
 
-Verified from the private **mockr-labs/practers** repository insights.
+<sub>Verified from the private <b>mockr-labs/practers</b> repository insights.</sub>
 
-**#2** contributor by commits
-**210,311** lines added, the **highest of any contributor** on the team
-**105** commits to main
-**92,608** additions in a single peak week
+<img src="https://img.shields.io/badge/%232-contributor_by_commits-00D9FF?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/210,311-lines_added,_most_on_the_team-7C3AED?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/105-commits_to_main-0F172A?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/92,608-additions_in_peak_week-F59E0B?style=for-the-badge" />
 
 <img src="images/image4.png" alt="Practers contributor leaderboard showing 105 commits and 210,311 additions" width="100%" />
 
@@ -164,13 +187,19 @@ Verified from the private **mockr-labs/practers** repository insights.
 <tr>
 <td width="50%" valign="top">
 
-### [Pounce](https://github.com/piyushagarwal-55/teampounce) &nbsp; <img src="https://img.shields.io/badge/agents_that-spend_real_money-7C3AED?style=flat-square" />
+### [Pounce](https://github.com/piyushagarwal-55/teampounce)
 
-**5 role-bounded LLM agents** running through a **tool-calling harness on Groq**, transacting with live merchants over **MCP and Shopify UCP**, grounding every pick on a **Senso RAG context layer**.
+**5 role-bounded LLM agents** on a tool-calling harness, transacting with **live merchants** over MCP and Shopify UCP.
 
-The **autonomous mandate agent** arms a **capped, time-bound authorization once**, then buys on its own **on a price drop**, with nobody watching when the money moves.
+Every pick grounded on a **Senso RAG context layer**.
 
-**Why it matters:** I shipped an **LLM-as-judge eval harness scoring every tool call on real merchant data**, specifically to catch **confident-wrong actions before checkout**. The cap itself lives outside the model, so a compromised agent still cannot exceed it.
+The **mandate agent** arms a **capped, time-bound authorization once**, then buys on its own **on a price drop**.
+
+I shipped an **LLM-as-judge harness scoring every tool call on real merchant data**, to catch **confident-wrong actions before checkout**.
+
+<img src="https://img.shields.io/badge/5_role--bounded_agents-F59E0B?style=flat-square" />
+<img src="https://img.shields.io/badge/spends_real_money-F59E0B?style=flat-square" />
+<img src="https://img.shields.io/badge/judge_harness-7C3AED?style=flat-square" />
 
 **Stack** OpenAI gpt-4o, MCP / Shopify UCP, Prava, Senso (RAG), Next.js, TypeScript, WebSockets
 
@@ -179,11 +208,19 @@ The **autonomous mandate agent** arms a **capped, time-bound authorization once*
 </td>
 <td width="50%" valign="top">
 
-### [LaunchOps](https://github.com/piyushagarwal-55/launchops-hackathon) &nbsp; <img src="https://img.shields.io/badge/built_in-a_weekend-00D9FF?style=flat-square" />
+### [LaunchOps](https://github.com/piyushagarwal-55/launchops-hackathon)
 
 An agent that **provisions live cloud resources**, exposed as **13 tools over a self-hosted MCP server**.
 
-**Why it is interesting:** **policy-as-code** with a scope, budget and approval engine plus a dry-run mode, so an agent cannot exceed granted authority.
+Since the agent is spending and provisioning on its own, guardrails are **policy-as-code**.
+
+A **scope, budget and approval engine** checks every action before it runs, with a **dry-run mode** and a **replayable audit trace**.
+
+**No agent can ever exceed its granted authority.** Built with Claude Code, custom skills and parallel subagents, full stack in days.
+
+<img src="https://img.shields.io/badge/13_tools-00D9FF?style=flat-square" />
+<img src="https://img.shields.io/badge/policy--as--code-F59E0B?style=flat-square" />
+<img src="https://img.shields.io/badge/built_in_days-10B981?style=flat-square" />
 
 **Stack** Next.js, TypeScript, MCP (HTTP and Stdio), Socket.io, Node.js
 
@@ -196,20 +233,31 @@ An agent that **provisions live cloud resources**, exposed as **13 tools over a 
 
 ### [FlowForge](https://github.com/piyushagarwal-55/flowforge)
 
-**Natural language specs compiled into deployable REST APIs** through an LLM tool-calling pipeline, with a node-based workflow engine exposed as an agent-callable tool over its own MCP server.
+Compiles **natural-language specs into deployable REST APIs** through an LLM tool-calling pipeline.
 
-**Stack** Next.js, TypeScript, Node.js, MCP, LLM tool-calling
+A node-based workflow engine handles data models, auth, validation and business logic, with an execution runtime and one-click deploy.
+
+Its **self-hosted MCP server exposes every generated endpoint as an agent-callable tool**.
+
+<img src="https://img.shields.io/badge/spec_%E2%86%92_REST_API-00D9FF?style=flat-square" />
+<img src="https://img.shields.io/badge/self--hosted_MCP-00D9FF?style=flat-square" />
 
 [Live](https://flowforge-i871.vercel.app) · [Demo](https://youtu.be/VcgeOuzxbdg) · [Code](https://github.com/piyushagarwal-55/flowforge)
 
 </td>
 <td width="50%" valign="top">
 
-### [Sheet AI Pro](https://github.com/piyushagarwal-55/sheet-ai-pro) &nbsp; <img src="https://img.shields.io/badge/real--time-multi--user-00D9FF?style=flat-square" />
+### [Sheet AI Pro](https://github.com/piyushagarwal-55/sheet-ai-pro)
 
-Real-time collaborative spreadsheet with **Operational Transformation over WebSockets**, persistent multi-user state and reconnect-safe synchronisation.
+Real-time collaborative spreadsheet using **Operational Transformation over WebSockets**.
 
-**Proof** under **100ms recalculation across 2,500+ cells**
+Persistent multi-user state, reconnect-safe synchronisation.
+
+**Under 100ms recalculation across 2,500+ cells.**
+
+<img src="https://img.shields.io/badge/real--time-00D9FF?style=flat-square" />
+<img src="https://img.shields.io/badge/multi--user_OT-00D9FF?style=flat-square" />
+<img src="https://img.shields.io/badge/%3C100ms-7C3AED?style=flat-square" />
 
 [Code](https://github.com/piyushagarwal-55/sheet-ai-pro)
 
@@ -218,9 +266,13 @@ Real-time collaborative spreadsheet with **Operational Transformation over WebSo
 <tr>
 <td width="50%" valign="top">
 
-### [Prediction Market](https://pridiction-market-frontend-nfrj.vercel.app/) &nbsp; <img src="https://img.shields.io/badge/risk-%26_markets-7C3AED?style=flat-square" />
+### [Prediction Market](https://pridiction-market-frontend-nfrj.vercel.app/)
 
-A **prediction market** where positions are priced by what people actually believe, not by what they say. Building it is the fastest way to learn that **a probability only means something when someone has money on it**.
+A market where positions are priced by **what people actually believe**, not by what they say.
+
+Building it teaches you one thing fast: **a probability only means something when someone has money on it.**
+
+<img src="https://img.shields.io/badge/risk_%26_markets-F59E0B?style=flat-square" />
 
 [Live](https://pridiction-market-frontend-nfrj.vercel.app/)
 
@@ -229,18 +281,18 @@ A **prediction market** where positions are priced by what people actually belie
      2. Swift or React Native
      3. App Store link
      4. any user or download number
-     They list "shipped something to the App Store yourself, at any scale" as a brownie point,
+     They list "shipped something to the App Store yourself" as a brownie point,
      so this is worth getting right rather than guessing.
 -->
-
-
 
 </td>
 <td width="50%" valign="top">
 
 ### [ShopSage](https://github.com/piyushagarwal-55/hackathon-we-make-devs)
 
-AI shopping assistant on **AWS Bedrock and Llama 3** for search, recommendations, personalisation, budget flows and generative UI.
+AI shopping assistant on **AWS Bedrock and Llama 3**.
+
+Search, recommendations, personalisation, budget flows and generative UI.
 
 [Live](https://hackathon-we-make-devs.vercel.app/) · [Demo](https://youtu.be/2icL9ZYp3SY)
 
@@ -251,14 +303,16 @@ AI shopping assistant on **AWS Bedrock and Llama 3** for search, recommendations
 
 ### [Nexus Flow](https://nexusflowbeta.vercel.app/)
 
-Built on **SKALE Network**. [Live](https://nexusflowbeta.vercel.app/) · [Demo](https://youtu.be/S1DNJXRR7LI)
+Built on **SKALE Network**.
+
+[Live](https://nexusflowbeta.vercel.app/) · [Demo](https://youtu.be/S1DNJXRR7LI)
 
 </td>
 <td width="50%" valign="top">
 
-### [RepVote](https://repvote-v1.vercel.app/) &nbsp; and &nbsp; [LNMIIT Carpool](https://github.com/piyushagarwal-55/carpool-lnmiit-work)
+### [RepVote](https://repvote-v1.vercel.app/) and [LNMIIT Carpool](https://github.com/piyushagarwal-55/carpool-lnmiit-work)
 
-Reputation-weighted voting, and a carpool app used on my own campus.
+Reputation-weighted voting, and a carpool app **used on my own campus**.
 
 </td>
 </tr>
@@ -272,50 +326,55 @@ Reputation-weighted voting, and a carpool app used on my own campus.
 <tr>
 <td width="50%" valign="top">
 
-### Practers &nbsp;|&nbsp; Co-Founder and Founding Engineer
+### Practers · Co-Founder and Founding Engineer
 <sub>Apr 2026 to Present</sub>
 
 Led architecture for an **AI-native interview and hiring platform** as a Turborepo monorepo.
 
-Built **resume-aware AI mock interviews** with authenticated WebSockets, Groq voice and text sessions, Gemini and OpenAI integrations, stage orchestration, code and canvas snapshots, and **rubric-scored reports**.
+Built **resume-aware AI mock interviews** with authenticated WebSockets, Groq voice and text sessions, Gemini and OpenAI integrations, stage orchestration and **rubric-scored reports**.
 
-Built secure coding, contest and hiring modules on Judge0 with Redis and BullMQ queues, hidden tests, real-time verdicts, ATS resume analysis and OA proctoring.
+Built secure coding, contest and hiring modules on Judge0 with Redis and BullMQ queues, hidden tests, real-time verdicts, ATS analysis and OA proctoring.
 
 Deployed on **Google Cloud Run** with Docker, Secret Manager, R2-style storage, Razorpay, Resend and MSG91.
 
 </td>
 <td width="50%" valign="top">
 
-### Swyft Ventures &nbsp;|&nbsp; SDE 1 Intern
+### Swyft Ventures · SDE 1 Intern
 <sub>Jan 2026 to Jun 2026 · Gemini-focused startup · Remote</sub>
 
-Designed and shipped a **real-time swipe-based matching engine** where mutual opt-ins **instantly create matches**, backed by **Supabase row-level security** and live **Expo push on React Native**.
+Designed and shipped a **real-time swipe-based matching engine** where mutual opt-ins **instantly create matches**.
 
-Shipped **high-quality releases** with automated unit and integration tests in a **GitHub Actions CI/CD pipeline**, plus real-time monitoring and error tracking for production reliability.
+Backed by **Supabase row-level security** and live **Expo push on React Native**.
 
-**React Native (Expo), Supabase, PostgreSQL, Prisma, Express, WebSockets, Jest/Vitest, GitHub Actions**
+Shipped **high-quality releases** with automated unit and integration tests in a **GitHub Actions CI/CD pipeline**, plus real-time monitoring and error tracking.
+
+<img src="https://img.shields.io/badge/React_Native-10B981?style=flat-square" />
+<img src="https://img.shields.io/badge/CI%2FCD-10B981?style=flat-square" />
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### A1 Selectors &nbsp;|&nbsp; Software Developer Intern
+### A1 Selectors · Software Developer Intern
 <sub>Aug 2025 to Dec 2025</sub>
 
-Built scalable REST APIs for **automated resume parsing** using NLP-based extraction, **cutting manual screening effort by 35 percent** across recruiter workflows.
+Built scalable REST APIs for **automated resume parsing** using NLP-based extraction.
 
-Developed AI recruitment workflows for candidate matching, ranking, scheduling automation, filtering and recruiter decision support.
+**Cut manual screening effort by 35 percent** across recruiter workflows.
+
+Developed AI recruitment workflows for candidate matching, ranking, scheduling automation and recruiter decision support.
 
 </td>
 <td width="50%" valign="top">
 
-### Teaching Assistant &nbsp;|&nbsp; LNMIIT
-<sub>Ongoing</sub>
+### Teaching Assistant · LNMIIT
 
 Mentored students across **two semesters**, communicating complex ideas and presenting solutions in labs.
 
-**B.Tech Communication and Computer Engineering**, CGPA **7.52**, Aug 2024 to Aug 2028.
+**B.Tech Communication and Computer Engineering**
+CGPA **7.52** · Aug 2024 to Aug 2028
 
 </td>
 </tr>
@@ -329,8 +388,8 @@ Mentored students across **two semesters**, communicating complex ideas and pres
 
 | Project | What I did | Why it counts |
 |---|---|---|
-| **[Zulip](https://github.com/zulip/zulip)** <sub>GSoC org</sub> | Merged PR migrating banners to a **shared component** across their large-scale Django codebase | Code other engineers actually use, in a repo I did not control |
-| **AOSSIE** <sub>GSoC org</sub> | Diagnosed and fixed a **governance-audit bug** in OrgExplorer | It was **inflating dashboard metrics by up to 12x** |
+| **[Zulip](https://github.com/zulip/zulip)** <sub>GSoC org</sub> | Onboarded into their **large-scale production Django codebase** and was assigned by a **core maintainer** to migrate message-editing banners to a modern shared component. Shipped with **passing unit tests** and a design proposal. | Code other engineers actually use, in a repo I did not control. **[PR #39811](https://github.com/zulip/zulip)** |
+| **AOSSIE** <sub>GSoC org</sub> | Diagnosed and fixed a **governance-audit bug** in OrgExplorer that counted closed issues and PRs as open. | It was **inflating dashboard metrics by up to 12x**. **PR #123** |
 
 </div>
 
@@ -340,16 +399,14 @@ Mentored students across **two semesters**, communicating complex ideas and pres
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%"><h3>LeetCode</h3><h2>450+</h2><sub>solved</sub></td>
-<td align="center" width="25%"><h3>Codeforces</h3><h2>1872</h2><sub>Knight, 220+ solved</sub></td>
-<td align="center" width="25%"><h3>GeeksforGeeks</h3><h2>200+</h2><sub>solved</sub></td>
-<td align="center" width="25%"><h3>Hackathons</h3><h2>Top 1%</h2><sub>Google Big Code 2026, AWS ML</sub></td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/LeetCode-450%2B_solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/Codeforces-1872_Knight-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+<img src="https://img.shields.io/badge/GeeksforGeeks-200%2B_solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 
-<sub><b>Google Big Code Hackathon 2026</b>: top 1% after three national elimination rounds. <b>Teaching Assistant</b> at LNMIIT.</sub>
+<img src="https://img.shields.io/badge/Top_1%25-Google_Big_Code_Hackathon_2026-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Top_1%25-AWS_ML_Hackathon-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+<sub><b>Google Big Code Hackathon 2026</b>: top 1% after <b>three national elimination rounds</b>.</sub>
 
 </div>
 
@@ -359,9 +416,9 @@ Mentored students across **two semesters**, communicating complex ideas and pres
 
 <div align="center">
 
-**AI and agents** &nbsp; MCP · eval harnesses · LLM-as-judge · agentic workflows · RAG · prompt evaluation · tool-calling
+**AI and agents** &nbsp;·&nbsp; MCP &nbsp;·&nbsp; eval harnesses &nbsp;·&nbsp; LLM-as-judge &nbsp;·&nbsp; multi-agent orchestration &nbsp;·&nbsp; RAG &nbsp;·&nbsp; prompt evaluation &nbsp;·&nbsp; tool-calling
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,c,nodejs,nextjs,react,tailwind,fastapi,express,postgres,mongodb,redis,supabase,prisma,docker,gcp,aws,git,githubactions,vercel" alt="Stack" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,c,nodejs,nextjs,react,tailwind,express,spring,postgres,mongodb,redis,supabase,prisma,docker,gcp,aws,git,githubactions,vercel" alt="Stack" />
 
 </div>
 
