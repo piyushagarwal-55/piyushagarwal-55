@@ -29,20 +29,17 @@ I do not write prompts and hope.
 
 I build **the harness that catches an agent being confidently wrong**, because that is what decides whether a surface ships or embarrasses me.
 
-<img src="https://img.shields.io/badge/0_%E2%86%92_1000%2B_users-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/shipped_solo-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/sub--second_voice-00D9FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/4_MCP_servers-00D9FF?style=for-the-badge" />
-
 I run **several plans in parallel** with Claude Code, custom skills and parallel subagents.
 
 I have opinions about **which model gets which job**, and I did not get them from a blog post.
 
 I ship agents that **spend real money unsupervised**. That is a fast way to learn exactly where these systems fail.
 
-<img src="https://img.shields.io/badge/parallel_agent_plans-F59E0B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/agents_that_move_money-F59E0B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/evals_gated_in_CI-F59E0B?style=for-the-badge" />
+<div align="center">
+
+<img src="https://img.shields.io/badge/0_%E2%86%92_1000%2B_users-7C3AED?style=for-the-badge" /> <img src="https://img.shields.io/badge/shipped_solo-7C3AED?style=for-the-badge" /> <img src="https://img.shields.io/badge/sub--second_voice-00D9FF?style=for-the-badge" /> <img src="https://img.shields.io/badge/4_MCP_servers-00D9FF?style=for-the-badge" /> <img src="https://img.shields.io/badge/parallel_agent_plans-F59E0B?style=for-the-badge" /> <img src="https://img.shields.io/badge/agents_that_move_money-F59E0B?style=for-the-badge" /> <img src="https://img.shields.io/badge/evals_gated_in_CI-F59E0B?style=for-the-badge" />
+
+</div>
 
 ---
 
@@ -71,9 +68,7 @@ An agent uses them to provision live cloud infrastructure, databases, hosting an
 
 **FlowForge** runs its own MCP server, exposing a node-based workflow engine as an **agent-callable tool**.
 
-<img src="https://img.shields.io/badge/13_tools-00D9FF?style=flat-square" />
-<img src="https://img.shields.io/badge/4_projects-00D9FF?style=flat-square" />
-<img src="https://img.shields.io/badge/HTTP_%2B_Stdio-00D9FF?style=flat-square" />
+<img src="https://img.shields.io/badge/13_tools-00D9FF?style=flat-square" /> <img src="https://img.shields.io/badge/4_projects-00D9FF?style=flat-square" /> <img src="https://img.shields.io/badge/HTTP_%2B_Stdio-00D9FF?style=flat-square" />
 
 </td>
 <td width="50%" valign="top">
@@ -88,9 +83,7 @@ Where judges disagree, the case **auto-escalates to a human** instead of being s
 
 The suite runs **in CI, so a bad prompt change fails the build** like a unit test.
 
-<img src="https://img.shields.io/badge/golden_set-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/auto--escalates-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/fails_the_build-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/golden_set-7C3AED?style=flat-square" /> <img src="https://img.shields.io/badge/auto--escalates-7C3AED?style=flat-square" /> <img src="https://img.shields.io/badge/fails_the_build-7C3AED?style=flat-square" />
 
 </td>
 </tr>
@@ -107,9 +100,7 @@ It sits **inside the payment mandate, where the bank enforces it**. A fully comp
 
 Deterministic state machine, **model advisory only**. Idempotency keys. Advisory locks. Signature-verified webhooks. A **replayable audit trail** of every decision.
 
-<img src="https://img.shields.io/badge/bank--enforced_cap-F59E0B?style=flat-square" />
-<img src="https://img.shields.io/badge/model_advisory_only-F59E0B?style=flat-square" />
-<img src="https://img.shields.io/badge/replayable_trail-F59E0B?style=flat-square" />
+<img src="https://img.shields.io/badge/bank--enforced_cap-F59E0B?style=flat-square" /> <img src="https://img.shields.io/badge/model_advisory_only-F59E0B?style=flat-square" /> <img src="https://img.shields.io/badge/replayable_trail-F59E0B?style=flat-square" />
 
 </td>
 <td width="50%" valign="top">
@@ -124,9 +115,7 @@ One of mine fails the build if a credential identifier appears **anywhere outsid
 
 The rule I work by: **the model advises, deterministic code decides.**
 
-<img src="https://img.shields.io/badge/Claude_Code-10B981?style=flat-square" />
-<img src="https://img.shields.io/badge/custom_skills-10B981?style=flat-square" />
-<img src="https://img.shields.io/badge/parallel_subagents-10B981?style=flat-square" />
+<img src="https://img.shields.io/badge/Claude_Code-10B981?style=flat-square" /> <img src="https://img.shields.io/badge/custom_skills-10B981?style=flat-square" /> <img src="https://img.shields.io/badge/parallel_subagents-10B981?style=flat-square" />
 
 </td>
 </tr>
@@ -150,9 +139,7 @@ Taken **0 to 1000+ users across 1000+ sessions**, with live health monitoring.
 
 The hard part was never the interview. It was making the **score defensible**, which is where the judge harness came from.
 
-<img src="https://img.shields.io/badge/1000%2B_users-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/1000%2B_sessions-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/sub--second_voice-00D9FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/1000%2B_users-7C3AED?style=for-the-badge" /> <img src="https://img.shields.io/badge/1000%2B_sessions-7C3AED?style=for-the-badge" /> <img src="https://img.shields.io/badge/sub--second_voice-00D9FF?style=for-the-badge" />
 
 **Stack** Next.js 16, React 19, Fastify 5, Prisma, Supabase, PostgreSQL, MongoDB, Redis, BullMQ, Socket.IO, Judge0
 
@@ -165,13 +152,7 @@ The hard part was never the interview. It was making the **score defensible**, w
 
 <sub>Verified from the private <b>mockr-labs/practers</b> repository insights.</sub>
 
-<img src="https://img.shields.io/badge/%232-contributor_by_commits-00D9FF?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/210,311-lines_added,_most_on_the_team-7C3AED?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/105-commits_to_main-0F172A?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/92,608-additions_in_peak_week-F59E0B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/%232-contributor_by_commits-00D9FF?style=for-the-badge" /> <img src="https://img.shields.io/badge/210,311-lines_added,_most_on_the_team-7C3AED?style=for-the-badge" /> <img src="https://img.shields.io/badge/105-commits_to_main-0F172A?style=for-the-badge" /> <img src="https://img.shields.io/badge/92,608-additions_in_peak_week-F59E0B?style=for-the-badge" />
 
 <img src="images/image4.png" alt="Practers contributor leaderboard showing 105 commits and 210,311 additions" width="100%" />
 
@@ -197,9 +178,7 @@ The **mandate agent** arms a **capped, time-bound authorization once**, then buy
 
 I shipped an **LLM-as-judge harness scoring every tool call on real merchant data**, to catch **confident-wrong actions before checkout**.
 
-<img src="https://img.shields.io/badge/5_role--bounded_agents-F59E0B?style=flat-square" />
-<img src="https://img.shields.io/badge/spends_real_money-F59E0B?style=flat-square" />
-<img src="https://img.shields.io/badge/judge_harness-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/5_role--bounded_agents-F59E0B?style=flat-square" /> <img src="https://img.shields.io/badge/spends_real_money-F59E0B?style=flat-square" /> <img src="https://img.shields.io/badge/judge_harness-7C3AED?style=flat-square" />
 
 **Stack** OpenAI gpt-4o, MCP / Shopify UCP, Prava, Senso (RAG), Next.js, TypeScript, WebSockets
 
@@ -218,9 +197,7 @@ A **scope, budget and approval engine** checks every action before it runs, with
 
 **No agent can ever exceed its granted authority.** Built with Claude Code, custom skills and parallel subagents, full stack in days.
 
-<img src="https://img.shields.io/badge/13_tools-00D9FF?style=flat-square" />
-<img src="https://img.shields.io/badge/policy--as--code-F59E0B?style=flat-square" />
-<img src="https://img.shields.io/badge/built_in_days-10B981?style=flat-square" />
+<img src="https://img.shields.io/badge/13_tools-00D9FF?style=flat-square" /> <img src="https://img.shields.io/badge/policy--as--code-F59E0B?style=flat-square" /> <img src="https://img.shields.io/badge/built_in_days-10B981?style=flat-square" />
 
 **Stack** Next.js, TypeScript, MCP (HTTP and Stdio), Socket.io, Node.js
 
@@ -239,8 +216,7 @@ A node-based workflow engine handles data models, auth, validation and business 
 
 Its **self-hosted MCP server exposes every generated endpoint as an agent-callable tool**.
 
-<img src="https://img.shields.io/badge/spec_%E2%86%92_REST_API-00D9FF?style=flat-square" />
-<img src="https://img.shields.io/badge/self--hosted_MCP-00D9FF?style=flat-square" />
+<img src="https://img.shields.io/badge/spec_%E2%86%92_REST_API-00D9FF?style=flat-square" /> <img src="https://img.shields.io/badge/self--hosted_MCP-00D9FF?style=flat-square" />
 
 [Live](https://flowforge-i871.vercel.app) · [Demo](https://youtu.be/VcgeOuzxbdg) · [Code](https://github.com/piyushagarwal-55/flowforge)
 
@@ -255,9 +231,7 @@ Persistent multi-user state, reconnect-safe synchronisation.
 
 **Under 100ms recalculation across 2,500+ cells.**
 
-<img src="https://img.shields.io/badge/real--time-00D9FF?style=flat-square" />
-<img src="https://img.shields.io/badge/multi--user_OT-00D9FF?style=flat-square" />
-<img src="https://img.shields.io/badge/%3C100ms-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/real--time-00D9FF?style=flat-square" /> <img src="https://img.shields.io/badge/multi--user_OT-00D9FF?style=flat-square" /> <img src="https://img.shields.io/badge/%3C100ms-7C3AED?style=flat-square" />
 
 [Code](https://github.com/piyushagarwal-55/sheet-ai-pro)
 
@@ -273,7 +247,6 @@ A market where positions are priced by **what people actually believe**, not by 
 Building it teaches you one thing fast: **a probability only means something when someone has money on it.**
 
 <img src="https://img.shields.io/badge/risk_%26_markets-F59E0B?style=flat-square" />
-
 [Live](https://pridiction-market-frontend-nfrj.vercel.app/)
 
 <!-- SWAPPR: send me these four things and I will write this card properly.
@@ -349,8 +322,7 @@ Backed by **Supabase row-level security** and live **Expo push on React Native**
 
 Shipped **high-quality releases** with automated unit and integration tests in a **GitHub Actions CI/CD pipeline**, plus real-time monitoring and error tracking.
 
-<img src="https://img.shields.io/badge/React_Native-10B981?style=flat-square" />
-<img src="https://img.shields.io/badge/CI%2FCD-10B981?style=flat-square" />
+<img src="https://img.shields.io/badge/React_Native-10B981?style=flat-square" /> <img src="https://img.shields.io/badge/CI%2FCD-10B981?style=flat-square" />
 
 </td>
 </tr>
@@ -399,12 +371,7 @@ CGPA **7.52** · Aug 2024 to Aug 2028
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LeetCode-450%2B_solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-<img src="https://img.shields.io/badge/Codeforces-1872_Knight-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-<img src="https://img.shields.io/badge/GeeksforGeeks-200%2B_solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Top_1%25-Google_Big_Code_Hackathon_2026-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Top_1%25-AWS_ML_Hackathon-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/LeetCode-450%2B_solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /> <img src="https://img.shields.io/badge/Codeforces-1872_Knight-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /> <img src="https://img.shields.io/badge/GeeksforGeeks-200%2B_solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /> <img src="https://img.shields.io/badge/Top_1%25-Google_Big_Code_Hackathon_2026-4285F4?style=for-the-badge&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Top_1%25-AWS_ML_Hackathon-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
 <sub><b>Google Big Code Hackathon 2026</b>: top 1% after <b>three national elimination rounds</b>.</sub>
 
