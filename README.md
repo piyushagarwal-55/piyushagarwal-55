@@ -58,49 +58,37 @@ On mobile I ship **React Native and Expo to production**, with **live push** and
 
 ### Self-hosted MCP servers
 
-- **LaunchOps** exposes **13 tools** over a self-hosted MCP server, which an agent uses to provision live cloud infrastructure, databases, hosting and domains.
-- **FlowForge** runs its own MCP server, exposing a node-based workflow engine as an **agent-callable tool**.
-- MCP integrations across **4 separate projects**, over both HTTP and Stdio transports.
+- **13 tools** over a self-hosted MCP server that an agent uses to **provision live cloud infrastructure**.
 
 <img src="https://img.shields.io/badge/13_tools-00D9FF?style=flat-square" /> <img src="https://img.shields.io/badge/4_projects-00D9FF?style=flat-square" /> <img src="https://img.shields.io/badge/HTTP_%2B_Stdio-00D9FF?style=flat-square" /> <img src="https://img.shields.io/badge/agent--callable_tools-00D9FF?style=flat-square" />
 
 ### LLM-as-judge eval harnesses
 
-- Every Practers interview is scored by **parallel specialised judge models**, combined by an orchestrator into a **rubric-grounded verdict**.
-- Judge-to-human agreement is **measured on a golden set**, and where judges disagree the case **auto-escalates to a human** instead of being silently scored.
-- The whole suite runs **in CI, so a bad prompt change fails the build** exactly like a unit test.
+- Parallel judges score every run, **disagreement escalates to a human**, and the suite runs **in CI so a bad prompt change fails the build**.
 
 <img src="https://img.shields.io/badge/golden_set-7C3AED?style=flat-square" /> <img src="https://img.shields.io/badge/measured_agreement-7C3AED?style=flat-square" /> <img src="https://img.shields.io/badge/auto--escalates-7C3AED?style=flat-square" /> <img src="https://img.shields.io/badge/fails_the_build-7C3AED?style=flat-square" />
 
 ### Guardrails enforced outside the model
 
-- In **Pounce** an agent completes real purchases with **nobody watching when money moves**, so the cap sits **inside the payment mandate where the bank enforces it**, not in my code and not in a prompt. A fully compromised agent still cannot exceed it.
-- Deterministic state machine with the **model advisory only**, plus idempotency keys on every attempt, advisory locks so two triggers cannot double-fire, and signature-verified webhooks.
-- A **replayable audit trail** of every decision, so any action can be reconstructed with the state that caused it.
+- The spending cap sits **inside the payment mandate where the bank enforces it**, so a fully compromised agent still cannot exceed it.
 
 <img src="https://img.shields.io/badge/bank--enforced_cap-F59E0B?style=flat-square" /> <img src="https://img.shields.io/badge/model_advisory_only-F59E0B?style=flat-square" /> <img src="https://img.shields.io/badge/idempotency_%2B_locks-F59E0B?style=flat-square" /> <img src="https://img.shields.io/badge/replayable_trail-F59E0B?style=flat-square" />
 
 ### Proactive agents, not request-response bots
 
-- **Pounce's mandate agent** runs as a **long-lived watcher**. It holds state across days and **acts on its own** the moment a price drops.
-- The hard part was never the acting, it was the **arming**: a **capped, time-bound authorization** granted once, so a watcher that fires unattended at 3am **cannot do damage**.
-- That is the shape of any proactive system. Something is always running, and the real question is what it is allowed to do **when nobody is looking**.
+- A **long-lived watcher that acts on its own**, where the hard part is the **arming**: a capped, time-bound authorization it cannot exceed unattended.
 
 <img src="https://img.shields.io/badge/long--lived_watcher-EC4899?style=flat-square" /> <img src="https://img.shields.io/badge/acts_unprompted-EC4899?style=flat-square" /> <img src="https://img.shields.io/badge/time--bound_authority-EC4899?style=flat-square" />
 
 ### Knowing when to stay silent
 
-- For anything proactive the failure mode is **not being wrong, it is being noisy**. A suggestion nobody asked for costs **trust**, and then the feature gets switched off.
-- So the interesting engineering is **suppression, not generation**. My judge harness already behaves that way: **act on high confidence, escalate on disagreement, stay quiet otherwise**.
-- I **route work by which model is genuinely good at it**, because once something runs continuously, **what it costs to run is a product decision** rather than an afterthought.
+- For proactive systems the failure mode is **noise, not error**, so the real work is **suppression**: act on high confidence, escalate on disagreement, stay quiet otherwise.
 
 <img src="https://img.shields.io/badge/suppression_first-EC4899?style=flat-square" /> <img src="https://img.shields.io/badge/confidence_gated-EC4899?style=flat-square" /> <img src="https://img.shields.io/badge/cost--aware_routing-EC4899?style=flat-square" />
 
 ### How I actually work
 
-- I run **several plans in parallel** with Claude Code, custom skills and parallel subagents, and I have opinions about **which model gets which job**.
-- I write **CI guard scripts that fail a build on policy violations**, not just on failing tests. One of mine fails the build if a credential identifier appears **anywhere outside the single module allowed to hold it**.
-- The rule I work by: **the model advises, deterministic code decides.**
+- **Several plans in parallel**, routed by which model is genuinely good at the job, with **CI guard scripts that fail a build on policy violations**.
 
 <img src="https://img.shields.io/badge/Claude_Code-10B981?style=flat-square" /> <img src="https://img.shields.io/badge/custom_skills-10B981?style=flat-square" /> <img src="https://img.shields.io/badge/parallel_subagents-10B981?style=flat-square" /> <img src="https://img.shields.io/badge/CI_guard_scripts-10B981?style=flat-square" />
 
